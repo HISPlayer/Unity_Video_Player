@@ -24,7 +24,6 @@ Multi Streaming
 
 * Supported Platforms
 
- <br> 
  
  ## Features
 
