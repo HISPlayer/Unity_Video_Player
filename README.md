@@ -1,12 +1,12 @@
 </br>
 
-HisPlayer for Unity is a cross-platform video streaming player for Unity games and apps. It supports both regular and 360 video playback on Android, iOS, Windows, macOS, Xbox, VR Headsets, UWP(Universal Windows Platform) HoloLens and WebGL. HisPlayer's Unity video plugin is the only player supporting Widevine DRM-protected HLS & DASH streaming on Android & iOS devices.
+HisPlayer for Unity is a cross-platform video streaming player for Unity games and apps. This Unity video player supports both regular and 360 video playback on Android, iOS, Windows, macOS, Xbox, VR Headsets, UWP(Universal Windows Platform) HoloLens and WebGL. HisPlayer's Unity video plugin is the only player supporting Widevine DRM-protected HLS & DASH streaming on Android & iOS devices.
 
-This repository contains the HisPlayer™ Unity video streaming player plugin features list as well as an installation guide. If you want to get a copy of our fully working demo, contact us at admin@hisplayer.com
+This repository contains the HisPlayer Unity video streaming player plugin features list as well as an installation guide. If you want to get a copy of our fully working demo, contact us at admin@hisplayer.com
 
 ## Demo Examples
 
-<p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unity video plugin allows the introduction of new exciting scenes within your Unity projects. With our plugin, you can use in-game actions and objects to modify video content.</p>
+<p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unity video player allows the introduction of new exciting scenes within your Unity projects. With our plugin, you can use in-game actions and objects to modify video content.</p>
 
 Render videos on any Unity GameObject
 <br>
@@ -20,11 +20,12 @@ Multi Streaming
 
 ## Table of Contents
 
-* Features](#features 
+* Features 
 
-* Supported Platforms](#supported-platforms
+* Supported Platforms
 
  <br> 
+ 
  ## Features
 
 The HisPlayer for Unity video streaming player plugin contains the latest features. As our Unity video plugin is developed entirely in-house, we can implement any desired functionalities. 
@@ -110,14 +111,13 @@ We support the following features:
 | Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |macOS|Metal|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
 |HTML 5|WebGL 1.0 / WebGL 2.0|:heavy_check_mark:|:heavy_check_mark:|||
-|Nintendo Switch|NVN|:heavy_check_mark:|:heavy_check_mark:|||
 |Xbox| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |HoloLens| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |[UWP](https://docs.microsoft.com/en-us/windows/uwp/audio-video-camera/supported-codecs)| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 ## Contact
 [admin@hisplayer.com](mailto:unity.admin@hisplayer.com)
-<br>See you also at trade shows around the world!
+<br>See you at trade shows around the world!
 
 <br> 
 </br>
