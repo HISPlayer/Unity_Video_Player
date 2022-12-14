@@ -1,4 +1,7 @@
 </br>
+<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/For%20(1).png"  width="100%" height="100%"></a>
+
+</br>
 
 HisPlayer for Unity is a cross-platform video streaming player for Unity games and apps. This Unity video player supports both regular and 360 video playback on Android, iOS, Windows, macOS, Xbox, VR Headsets, UWP(Universal Windows Platform) HoloLens and WebGL. HisPlayer's Unity video plugin is the only player supporting Widevine DRM-protected HLS & DASH streaming on Android & iOS devices.
 
