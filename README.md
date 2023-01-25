@@ -1,5 +1,5 @@
 </br>
-<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/For%20(3).png"  width="100%" height="100%"></a>
+<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/HisPlayer%20Unity%20Github.png"  width="100%" height="100%"></a>
 
 </br>
 
