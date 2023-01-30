@@ -10,7 +10,7 @@ Premium Video Streaming SDK for Unity Games & Metaverse.
 Our video streaming plugin for `Unity` supports VoD and Live video streaming with HLS and DASH formats.
 
 Supported platforms
-| Android | iOS | Windows | macOS | Xbox | VR Headsets| UWP(Universal Windows Platform) | WebGL|
+| Android | iOS | Windows | macOS | Xbox | VR Headsets| UWP (Universal Windows Platform) | WebGL|
 | --- | --- | --- | --- | --- | --- | --- | --- |
 
 HisPlayer's Unity video plugin is the only player supporting Widevine DRM-protected HLS & DASH streaming on Android & iOS devices.
