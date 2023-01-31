@@ -4,17 +4,26 @@
 </br>
 
 ```html
-Premium Video Streaming SDK for Unity Games & Metaverse.
+Premium Unity Video Streaming SDK for advanced Metaverse and Game apps. 
 ```
 
-Our video streaming plugin for `Unity` supports VoD and Live video streaming with HLS and DASH formats.
+Our `Unity Video Streaming Plugin` supports video on demand (VoD) and live video streaming with `HLS` and `DASH` formats. Deploy HisPlayer for Unity to offer high-quality and seamless playback experience across multiple devices.
+- Android
+- iOS 
+- WebGL
+- Windows  
+- macOS 
+- Xbox
+- VR Headsets
+- Universal Windows Platform (UWP)
+ 
+This Unity video streaming plugin allows premium `OTT video service providers` to offer their content inside immersive virtual world and create unparalleled interactive experience. 
 
-Supported platforms
-| Android | iOS | Windows | macOS | Xbox | VR Headsets| UWP (Universal Windows Platform) | WebGL|
-| --- | --- | --- | --- | --- | --- | --- | --- |
+With this fully cuztomizable Unity plugin, `sports streaming service providers` can offer new live  within metaverse with the possiblity of multiview , with new monetization opportunities where users can sell, buy, trade NFT items and elegant ad insertions on game objects within metaverse.
 
-HisPlayer's Unity video plugin is the only player supporting Widevine DRM-protected HLS & DASH streaming on Android & iOS devices.
+inter  into the metaverse with immersive Unity developers can stream live events and video into Unity games and bring their virtual universe to life.
 
+`Unity games and metaverse:`
 This repository contains the HisPlayer Unity video streaming player plugin features list as well as an installation guide. If you want to get a copy of our fully working demo, contact us at admin@hisplayer.com
 
 ## Demo Examples
