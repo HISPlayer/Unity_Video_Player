@@ -7,35 +7,29 @@
 ```html
 Advanced Unity Video Streaming SDK for premium Gaming & Metaverse services. 
 ```
-If you need personalized and advanced feature or customization for your service please contact us at admin@hisplayer.com. 
 
 Our `Unity Video Streaming Plugin` supports video on demand (VoD) and live video streaming with `HLS` and `DASH` formats.
+
+It opens the possibility to merge `gaming` with `OTT video streaming` industry, create truly interactive, immersive metaverse experiences for live events, sports, betting, e-learning and entertainment. You can bring Unity games alive, new monetization opportunities with video ads in Web3 virtual world. 
+
 Use HisPlayer for Unity to bring high quality and seamless video playback experience across multiple platforms.
 
 <a href="red">Supported Platforms, Graphics APIs & Streaming Formats:</a>
-| Streaming formats | Android | iOS | WebGL | Windows | Mac | UWP | Xbox | 
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| HLS | &check; | &check; | &check; | &check; | &check; | &check; | &check; | 
-| DASH | &check; | | &check; | &check; | | &check; | &check; |
-| mp4 | &check; | &check; | | &check; | &check; | &check; | &check; |
-| Streaming Assets | &check; | &check; | | &check; | &check; | &check; | &check; |
 
-- Android
-- iOS 
-- WebGL
-- Windows  
-- macOS 
-- Xbox
-- VR Headsets
-- Universal Windows Platform (UWP)
+| Compatibility | Android | iOS | macOS |WebGL | Windows | Xbox | Windows UWP | HoloLens |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| HLS | &check; | &check; | &check; | &check; | &check; | &check; | &check; | &check; | 
+| DASH | &check; | |  | &check; | &check; | &check; | &check; | &check; | 
+| mp4 | &check; | &check; | &check; | | &check; | &check; | &check; | &check; | 
+| Streaming Assets | &check; | &check; | &check; | | &check; | &check; | &check; | &check; | 
+| DirectX11 & DirectX12 | | | | | &check; | &check; | &check; | &check; |
+| OpenGLES2 & OpenGLES3 |  &check; | | | | | | | |
+| Metal |  | &check; |  &check; | | | | | |
+| WebGL 1.0 & WebGL 2.0 | | | | &check; | | | | |
  
-With HisPlayer's Unity Video Player, you can include into your Unity project HLS and DASH streaming, progressive download and local playback of .mp4 files, adaptive bitrate (ABR), VR 360 Stereo and Mono video, MultiView (selection of action from alternative camera angles), audio pcm data, Unity AudioSoure to play 2D & 3D sounds (SpatialBlend), advanced synchronization of video with audio and more.
-
-It opens the possibility to merge `gaming` with `OTT video streaming` industry, create truly interactive, immersive metaverse experiences for sports and entertainment live events, make Unity games alive, new monetization opportunities with video ads and video contents in Web3 virtual showrooms. 
 
 
-
-This repository depicts the HisPlayer's Unity Video Streaming Player Plugin features list, tools and services to build immersive experiences. If you want to get a demo, contact us here.
+If you want to get a demo of HisPlayer's Unity Video Streaming Player Plugin contact us at [admin@hisplayer.com](mailto:admin@hisplayer.com).
 
 ## Metaverse Example
 <p align="center">Include video streaming into metaverse</p>
@@ -43,38 +37,41 @@ This repository depicts the HisPlayer's Unity Video Streaming Player Plugin feat
 
 
 
- 
- ## Features
+<br>
 
-The HisPlayer for Unity video streaming player plugin contains the latest features. As our Unity video plugin is developed entirely in-house, we can implement any desired functionalities. 
+## Features
 
-We support the following features:
-
+```html
+Overview:
+```
 - mp4 progressive download and local playback mp4 
 - HLS & DASH Streaming
-- Adaptive Bitrate(ABR) and 8K (UHD) video </li>
+- Adaptive Bitrate(ABR) and 8K (UHD) video 
 - AES-128 HLS
 - Windows & macOS Editor
 - Rendering Videos on 2D & 3D Objects
 
-     </td>
-     <td>
-       <ul>
-        <li>Auto Playback</li>
-        <li>Play / Pause</li>
-        <li>Seek</li>
-        <li>Audio Volume Adjustment</li>
-        <li>Loop Playback</li>
-        <li>Configurable Aspect Ratio</li>
-        <li>Portrait / Landscape Orientation</li>
-       </ul>
-     </td>
-     </tr>
-     <tr>
-        <td valign="top" style="text-align:center;">
-  
-         </td>
-     <td>
+```html
+Playback features:
+```
+- Auto Playback 
+- Play / Pause
+- Seek
+- Audio Volume Adjustment
+- Loop Playback
+
+```html
+Playback and streaming features:
+```
+
+- Auto Playback
+- Play / Pause
+- Seek
+- Audio Volume Adjustment
+- Loop Playback
+- Configurable Aspect Ratio
+- Portrait / Landscape Orientation
+
        <ul>
        <li>Offline Streaming Playback for HLS & DASH</li>
        <li>MultiView (Display Multiple Synchronized Streams): Android & iOS only</li>
