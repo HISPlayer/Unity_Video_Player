@@ -11,7 +11,7 @@ Our `Unity Video Streaming Plugin` supports video on demand (VoD) and live video
 
 It opens the possibility to merge `gaming` with `OTT video streaming` industry, create truly interactive, immersive metaverse experiences for live events, sports, betting, e-learning and entertainment. Make your Unity games to alive, utilize new monetization opportunities with video ads in Web3 virtual world. To get a demo please contact us at [admin@hisplayer.com](mailto:admin@hisplayer.com).
 
-## Create new user experiences
+## Create immersive experiences
 <p align="center">Include high quality video streaming into gaming and metaverse</p>
 <p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Unity_video_streaming.gif"  width="90%" height="90%"></a>
 
