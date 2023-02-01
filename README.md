@@ -1,5 +1,6 @@
 </br>
 <p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/video.png"  width="100%" height="100%"></a>
+
 </p>
 </br>
 
@@ -23,31 +24,17 @@ Use HisPlayer for Unity to bring high quality and seamless video playback experi
  
 With HisPlayer's Unity Video Player, you can include into your Unity project HLS and DASH streaming, progressive download and local playback of .mp4 files, adaptive bitrate (ABR), VR 360 Stereo and Mono video, MultiView (selection of action from alternative camera angles), audio pcm data, Unity AudioSoure to play 2D & 3D sounds (SpatialBlend), advanced synchronization of video with audio and more.
 
-It opens the possibility to merge `gaming` with `OTT video streaming` industry, create truly interactive and immersive sports and entertainment metaverse experiences, make Unity games alive, new monetization opportunities with video ads and video contents in Web3-enabled showrooms and events. 
+It opens the possibility to merge `gaming` with `OTT video streaming` industry, create truly interactive, immersive metaverse experiences for sports and entertainment live events, make Unity games alive, new monetization opportunities with video ads and video contents in Web3 virtual showrooms. 
 
 
 
 This repository depicts the HisPlayer's Unity Video Streaming Player Plugin features list, tools and services to build immersive experiences. If you want to get a demo, contact us here.
 
-## Demo Examples
+## Metaverse Example
+<p align="center">Include video streaming into metaverse</p>
+<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Unity_video_streaming.gif"  width="90%" height="90%"></a>
 
-<p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unity video player allows the introduction of new exciting scenes within your Unity projects. With our plugin, you can use in-game actions and objects to modify video content.</p>
 
-Render videos on any Unity GameObject
-<br>
-Multi Streaming
-
-## Our Unity Use Cases
-* Pluto TV: Immersive OTT experience in VR
-* PartyOn: Immerse in the music metaverse
-* GREE, Inc.: Virtual cinema platform
-* CardaStation: webGL Browser-based metaverses, blockchain
-
-## Table of Contents
-
-* Features 
-
-* Supported Platforms
 
  
  ## Features
@@ -56,26 +43,13 @@ The HisPlayer for Unity video streaming player plugin contains the latest featur
 
 We support the following features:
 
-<table>
- <tbody style="text-align:center;">
-   <tr>
-     <td valign="top" style="text-align:center;">
-         <p style="max-width:100%;"><b>Overview</b></p>
-     </td>
-     <td>
-       <ul>
-       <li>mp4 download and playback</li>
-       <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
-       <li>AES-128 HLS</li>
-       <li>Widevine DRM for Streaming and Local Playback for Android & iOS</li>
-       <li>Windows & macOS Editor (Easy to Use)</li>
-       <li>Up to 8K (UHD) Resolution</li>
-       <li>Rendering Videos on 2D & 3D Objects</li>
-       </ul>
-     </td>
-        <tr>
-            <td valign="top" style="text-align:center;">
-            <p style="max-width:100%;"><b>Basic Features</b></p>
+- mp4 progressive download and local playback mp4 
+- HLS & DASH Streaming
+- Adaptive Bitrate(ABR) and 8K (UHD) video </li>
+- AES-128 HLS
+- Windows & macOS Editor
+- Rendering Videos on 2D & 3D Objects
+
      </td>
      <td>
        <ul>
@@ -91,7 +65,7 @@ We support the following features:
      </tr>
      <tr>
         <td valign="top" style="text-align:center;">
-        <p style="max-width:100%;text-align:center;"><b>Advanced Features</b></p>
+  
          </td>
      <td>
        <ul>
@@ -128,13 +102,13 @@ We support the following features:
 
 ## Supported Platforms
 
-| Platform | Supported Graphics APIs | HLS | DASH | Local | Inside App (Streaming Assets) | DRM protection |
-| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
-| Android  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| iOS | Metal | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-|macOS|Metal|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
-|HTML 5|WebGL 1.0 / WebGL 2.0|:heavy_check_mark:|:heavy_check_mark:|||
+| Extension | Android | iOS | WebGL | Windows | Mac | UWP | Xbox | 
+| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
+|  Graphics | OpenGLES2, OpenGLES3 | Metal | WebGL 1.0 / WebGL 2.0 | DirectX11 / DirectX12 | Metal | DirectX11 / DirectX12 |
+| HLS|  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| DASH |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| mp4 ||:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
+| Streaming Asset ||:heavy_check_mark:|:heavy_check_mark:|||
 |Xbox| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |HoloLens| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |[UWP](https://docs.microsoft.com/en-us/windows/uwp/audio-video-camera/supported-codecs)| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
