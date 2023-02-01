@@ -49,11 +49,6 @@ It opens the possibility to merge `gaming` with `OTT video streaming` industry, 
 - Windows, Xbox, Windows UWP, HoloLens
   - `DirectX11` & `DirectX12` 
 
-
-
-<br>
-<p>
-
 <br>
 
 ## Features
