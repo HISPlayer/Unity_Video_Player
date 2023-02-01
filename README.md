@@ -100,11 +100,11 @@ We support the following features:
  </tbody>
 </table>
 
-## Supported Platforms
+## Compatibilty 
 
 | Extension | Android | iOS | WebGL | Windows | Mac | UWP | Xbox | 
 | :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
-|  Graphics | OpenGLES2, OpenGLES3 | Metal | WebGL 1.0 / WebGL 2.0 | DirectX11 / DirectX12 | Metal | DirectX11 / DirectX12 |
+|  Graphics | OpenGLES2, OpenGLES3 | Metal | WebGL 1.0 / WebGL 2.0 | DirectX11 / DirectX12 | Metal | DirectX11 / DirectX12 | 
 | HLS|  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | DASH |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | mp4 ||:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
