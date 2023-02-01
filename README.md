@@ -4,10 +4,11 @@
 </br>
 
 ```html
-Premium Unity Video Streaming SDK for advanced Metaverse and Game apps. 
+Premium Unity Video Streaming SDK for advanced Gaming & Metaverse apps. 
 ```
 
-Our `Unity Video Streaming Plugin` supports video on demand (VoD) and live video streaming with `HLS` and `DASH` formats. Deploy HisPlayer for Unity to offer high-quality and seamless playback experience across multiple devices.
+Our `Unity Video Streaming Plugin` supports video on demand (VoD) and live video streaming with `HLS` and `DASH` formats. 
+Use HisPlayer for Unity to offer high-quality and seamless playback experience into your Unity projects across platforms.
 - Android
 - iOS 
 - WebGL
