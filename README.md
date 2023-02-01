@@ -12,21 +12,24 @@ Our `Unity Video Streaming Plugin` supports video on demand (VoD) and live video
 It opens the possibility to merge `gaming` with `OTT video streaming` industry, create truly interactive, immersive metaverse experiences for live events, sports, betting, e-learning and entertainment. Make your Unity games to alive, utilize new monetization opportunities with video ads in Web3 virtual world. To get a demo please contact us at [admin@hisplayer.com](mailto:admin@hisplayer.com).
 
 ## Create immersive experiences
+
 <p align="center">Include high quality video streaming into gaming and metaverse</p>
+<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Unity_video_streaming.gif"  width="100%" height="100%"></a>
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-<img src=""https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/1.gif" width="95%" height="95%"> Live concert: Immersive experience| <img src=""https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/2.gif" width="95%" height="95%"> Party with friends in metaverse|
-<img src=""https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/3.gif" width="95%" height="95%">|
-
-<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Unity_video_streaming.gif"  width="90%" height="90%"></a>
+|<img width="100%" alt="1.gif" src="https://github.com/HisPlayer/HisPlayer_Unity_Video_Streaming_Plugin/blob/main/resources/1.gif"> Metaverse megapolis | <img width="100%" alt="2.gif" src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/2.gif"> In-game concerts|<img width="100%" alt="3.gif" src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/3.gif"> Party at live events|
 
 
-Using HisPlayer for Unity bring high quality and seamless video playback experience across multiple platforms.
+
+<br>
+<p>
 
 <a href="red">Supported Platforms & Streaming Formats:</a>
 
-| Formats | Android | iOS | macOS |WebGL | Windows | Xbox | Windows UWP | HoloLens |
+*Using HisPlayer for Unity bring high quality and seamless video playback experience across multiple platforms.*
+
+| | Android | iOS | macOS |WebGL | Windows | Xbox | Windows UWP | HoloLens |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HLS | &check; | &check; | &check; | &check; | &check; | &check; | &check; | &check; | 
 | DASH | &check; | |  | &check; | &check; | &check; | &check; | &check; | 
