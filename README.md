@@ -13,8 +13,12 @@ It opens the possibility to merge `gaming` with `OTT video streaming` industry, 
 
 ## Create immersive experiences
 <p align="center">Include high quality video streaming into gaming and metaverse</p>
-| | | !
+
+| | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
+<img src=""https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/1.gif" width="95%" height="95%"> Live concert: Immersive experience| <img src=""https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/2.gif" width="95%" height="95%"> Party with friends in metaverse|
+<img src=""https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/3.gif" width="95%" height="95%">|
+
 <p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Unity_video_streaming.gif"  width="90%" height="90%"></a>
 
 
