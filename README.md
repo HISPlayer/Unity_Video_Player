@@ -4,20 +4,23 @@
 </p>
 </br>
 
-```html
-Advanced Unity Video Streaming SDK for premium Gaming & Metaverse services. 
-```
-To get a demo please contact us at [admin@hisplayer.com](mailto:admin@hisplayer.com).
+
+Advanced <a href="blue">`Unity Video Streaming SDK`</a> for premium Gaming & Metaverse services.
 
 Our `Unity Video Streaming Plugin` supports video on demand (VoD) and live video streaming with `HLS` and `DASH` formats.
 
-It opens the possibility to merge `gaming` with `OTT video streaming` industry, create truly interactive, immersive metaverse experiences for live events, sports, betting, e-learning and entertainment. Bring Unity games to life, utilize new monetization opportunities with video ads in Web3 virtual world. 
+It opens the possibility to merge `gaming` with `OTT video streaming` industry, create truly interactive, immersive metaverse experiences for live events, sports, betting, e-learning and entertainment. Make your Unity games to alive, utilize new monetization opportunities with video ads in Web3 virtual world. To get a demo please contact us at [admin@hisplayer.com](mailto:admin@hisplayer.com).
 
-Use HisPlayer for Unity to bring high quality and seamless video playback experience across multiple platforms.
+## Create new user experiences
+<p align="center">Include high quality video streaming into gaming and metaverse</p>
+<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Unity_video_streaming.gif"  width="90%" height="90%"></a>
+
+
+Using HisPlayer for Unity bring high quality and seamless video playback experience across multiple platforms.
 
 <a href="red">Supported Platforms & Streaming Formats:</a>
 
-| Compatibility | Android | iOS | macOS |WebGL | Windows | Xbox | Windows UWP | HoloLens |
+| Formats | Android | iOS | macOS |WebGL | Windows | Xbox | Windows UWP | HoloLens |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HLS | &check; | &check; | &check; | &check; | &check; | &check; | &check; | &check; | 
 | DASH | &check; | |  | &check; | &check; | &check; | &check; | &check; | 
@@ -27,26 +30,20 @@ Use HisPlayer for Unity to bring high quality and seamless video playback experi
  
 <a href="red">Supported Graphics APIs:</a>
 - Android
-  -  OpenGLES2 & OpenGLES3
+  -  `OpenGLES2` & `OpenGLES3`
 - iOS
-  -  Metal
+  -  `Metal`
 - macOS
-  -  Metal
+  -  `Metal`
 - webGL
-  -  WebGL 1.0 & WebGL 2.0
+  -  `WebGL 1.0` & `WebGL 2.0`
 - Windows, Xbox, Windows UWP, HoloLens
-  - DirectX11 & DirectX12 
+  - `DirectX11` & `DirectX12` 
 
 
 
 <br>
 <p>
-
-## Metaverse Example
-<p align="center">Include video streaming into metaverse</p>
-<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Unity_video_streaming.gif"  width="90%" height="90%"></a>
-
-
 
 <br>
 
@@ -115,21 +112,9 @@ Playback and streaming features:
  </tbody>
 </table>
 
-## Compatibilty 
-
-| Extension | Android | iOS | WebGL | Windows | Mac | UWP | Xbox | 
-| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
-|  Graphics | OpenGLES2, OpenGLES3 | Metal | WebGL 1.0 / WebGL 2.0 | DirectX11 / DirectX12 | Metal | DirectX11 / DirectX12 | 
-| HLS |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| DASH |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| mp4 ||:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
-| Streaming Assets ||:heavy_check_mark:|:heavy_check_mark:|||
-|Xbox| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-|HoloLens| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-|[UWP](https://docs.microsoft.com/en-us/windows/uwp/audio-video-camera/supported-codecs)| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 ## Contact
-[admin@hisplayer.com](mailto:unity.admin@hisplayer.com)
+[admin@hisplayer.com](mailto:admin@hisplayer.com)
 <br>See you at trade shows around the world!
 
 <br> 
