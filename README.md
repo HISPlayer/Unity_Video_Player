@@ -7,14 +7,15 @@
 ```html
 Advanced Unity Video Streaming SDK for premium Gaming & Metaverse services. 
 ```
+To get a demo please contact us at [admin@hisplayer.com](mailto:admin@hisplayer.com).
 
 Our `Unity Video Streaming Plugin` supports video on demand (VoD) and live video streaming with `HLS` and `DASH` formats.
 
-It opens the possibility to merge `gaming` with `OTT video streaming` industry, create truly interactive, immersive metaverse experiences for live events, sports, betting, e-learning and entertainment. You can bring Unity games alive, new monetization opportunities with video ads in Web3 virtual world. 
+It opens the possibility to merge `gaming` with `OTT video streaming` industry, create truly interactive, immersive metaverse experiences for live events, sports, betting, e-learning and entertainment. Bring Unity games to life, utilize new monetization opportunities with video ads in Web3 virtual world. 
 
 Use HisPlayer for Unity to bring high quality and seamless video playback experience across multiple platforms.
 
-<a href="red">Supported Platforms, Graphics APIs & Streaming Formats:</a>
+<a href="red">Supported Platforms & Streaming Formats:</a>
 
 | Compatibility | Android | iOS | macOS |WebGL | Windows | Xbox | Windows UWP | HoloLens |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -22,14 +23,24 @@ Use HisPlayer for Unity to bring high quality and seamless video playback experi
 | DASH | &check; | |  | &check; | &check; | &check; | &check; | &check; | 
 | mp4 | &check; | &check; | &check; | | &check; | &check; | &check; | &check; | 
 | Streaming Assets | &check; | &check; | &check; | | &check; | &check; | &check; | &check; | 
-| DirectX11 & DirectX12 | | | | | &check; | &check; | &check; | &check; |
-| OpenGLES2 & OpenGLES3 |  &check; | | | | | | | |
-| Metal |  | &check; |  &check; | | | | | |
-| WebGL 1.0 & WebGL 2.0 | | | | &check; | | | | |
+
  
+<a href="red">Supported Graphics APIs:</a>
+- Android
+  -  OpenGLES2 & OpenGLES3
+- iOS
+  -  Metal
+- macOS
+  -  Metal
+- webGL
+  -  WebGL 1.0 & WebGL 2.0
+- Windows, Xbox, Windows UWP, HoloLens
+  - DirectX11 & DirectX12 
 
 
-If you want to get a demo of HisPlayer's Unity Video Streaming Player Plugin contact us at [admin@hisplayer.com](mailto:admin@hisplayer.com).
+
+<br>
+<p>
 
 ## Metaverse Example
 <p align="center">Include video streaming into metaverse</p>
