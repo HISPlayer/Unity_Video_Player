@@ -9,7 +9,7 @@ Advanced <a href="blue">`Unity Video Streaming SDK`</a> for premium Gaming & Met
 
 Our `Unity Video Streaming Plugin` supports video on demand (VoD) and live video streaming with `HLS` and `DASH` formats.
 
-It opens the possibility to merge `gaming` with `OTT video streaming` industry, create truly interactive, immersive metaverse experiences for live events, sports, betting, e-learning and entertainment. Make your Unity games to alive, utilize new monetization opportunities with video ads in Web3 virtual world. To get a demo please contact us at [admin@hisplayer.com](mailto:admin@hisplayer.com).
+It opens the possibility to merge `gaming` with `OTT video streaming` industry, create truly interactive, immersive metaverse experiences for live events, sports, betting, e-learning and entertainment. Make your Unity games alive, utilize new monetization opportunities with video ads in Web3 virtual world. To get a demo please contact us at [admin@hisplayer.com](mailto:admin@hisplayer.com).
 
 ## Create immersive experiences
 
