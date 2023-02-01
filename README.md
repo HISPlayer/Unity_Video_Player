@@ -12,7 +12,14 @@ If you need personalized and advanced feature or customization for your service 
 Our `Unity Video Streaming Plugin` supports video on demand (VoD) and live video streaming with `HLS` and `DASH` formats.
 Use HisPlayer for Unity to bring high quality and seamless video playback experience across multiple platforms.
 
-<a href="red">Supported Platforms:</a> 
+<a href="red">Supported Platforms, Graphics APIs & Streaming Formats:</a>
+| Streaming formats | Android | iOS | WebGL | Windows | Mac | UWP | Xbox | 
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| HLS | &check; | &check; | &check; | &check; | &check; | &check; | &check; | 
+| DASH | &check; | | &check; | &check; | | &check; | &check; |
+| mp4 | &check; | &check; | | &check; | &check; | &check; | &check; |
+| Streaming Assets | &check; | &check; | | &check; | &check; | &check; | &check; |
+
 - Android
 - iOS 
 - WebGL
@@ -105,10 +112,10 @@ We support the following features:
 | Extension | Android | iOS | WebGL | Windows | Mac | UWP | Xbox | 
 | :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
 |  Graphics | OpenGLES2, OpenGLES3 | Metal | WebGL 1.0 / WebGL 2.0 | DirectX11 / DirectX12 | Metal | DirectX11 / DirectX12 | 
-| HLS|  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| HLS |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | DASH |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | mp4 ||:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
-| Streaming Asset ||:heavy_check_mark:|:heavy_check_mark:|||
+| Streaming Assets ||:heavy_check_mark:|:heavy_check_mark:|||
 |Xbox| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |HoloLens| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |[UWP](https://docs.microsoft.com/en-us/windows/uwp/audio-video-camera/supported-codecs)| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
