@@ -4,11 +4,14 @@
 </br>
 
 ```html
-Premium Unity Video Streaming SDK for advanced Gaming & Metaverse apps. 
+Advanced Unity Video Streaming SDK for premium Gaming & Metaverse services. 
 ```
+If you need personalized and advanced feature or customization for your service please contact us at admin@hisplayer.com. 
 
-Our `Unity Video Streaming Plugin` supports video on demand (VoD) and live video streaming with `HLS` and `DASH` formats. 
-Use HisPlayer for Unity to offer high-quality and seamless playback experience into your Unity projects across platforms.
+Our `Unity Video Streaming Plugin` supports video on demand (VoD) and live video streaming with `HLS` and `DASH` formats.
+Use HisPlayer for Unity to bring high quality and seamless video playback experience across multiple platforms.
+
+<a href="red">Supported Platforms:</a> 
 - Android
 - iOS 
 - WebGL
@@ -18,14 +21,13 @@ Use HisPlayer for Unity to offer high-quality and seamless playback experience i
 - VR Headsets
 - Universal Windows Platform (UWP)
  
-This Unity video streaming plugin allows premium `OTT video service providers` to offer their content inside immersive virtual world and create unparalleled interactive experience. 
+With HisPlayer's Unity Video Player, you can include into your Unity project HLS and DASH streaming, progressive download and local playback of .mp4 files, adaptive bitrate (ABR), VR 360 Stereo and Mono video, MultiView (selection of action from alternative camera angles), audio pcm data, Unity AudioSoure to play 2D & 3D sounds (SpatialBlend), advanced synchronization of video with audio and more.
 
-With this fully cuztomizable Unity plugin, `sports streaming service providers` can offer new live  within metaverse with the possiblity of multiview , with new monetization opportunities where users can sell, buy, trade NFT items and elegant ad insertions on game objects within metaverse.
+It opens the possibility to merge `gaming` with `OTT video streaming` industry, create truly interactive and immersive sports and entertainment metaverse experiences, make Unity games alive, new monetization opportunities with video ads and video contents in Web3-enabled showrooms and events. 
 
-inter  into the metaverse with immersive Unity developers can stream live events and video into Unity games and bring their virtual universe to life.
 
-`Unity games and metaverse:`
-This repository contains the HisPlayer Unity video streaming player plugin features list as well as an installation guide. If you want to get a copy of our fully working demo, contact us at admin@hisplayer.com
+
+This repository depicts the HisPlayer's Unity Video Streaming Player Plugin features list, tools and services to build immersive experiences. If you want to get a demo, contact us here.
 
 ## Demo Examples
 
