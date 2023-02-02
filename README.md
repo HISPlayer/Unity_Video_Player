@@ -130,7 +130,7 @@ Subtitles and Closed Captions:
 - TTML
 - SRT
 
-  <br>
+<br>
 
 ```html
 Timed Metadata:
@@ -147,7 +147,7 @@ Stereo 360 video playback and VR
 - Automatic Ground Leveler to stabilize the video
 - Custom shaders to map 2D, 3D Over/Under and 3D Left/Right 360 videos
 - Compatible with VR libraries for Unity 
-  -  VR, AR, MR, Headsets: Google Cardboard, Daydream, Pico, HTC Vive & Oculus/Meta Quest.. 
+  -  VR, AR Headsets: Google Cardboard, Daydream, Pico, HTC Vive & Oculus/Meta Quest.. 
   
 
 ## Contact
