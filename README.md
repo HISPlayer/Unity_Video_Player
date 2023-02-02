@@ -11,7 +11,7 @@ Our `Unity Video Streaming Plugin` supports video on demand (VoD) and live video
 
 It opens the possibility to merge `gaming` with `OTT video streaming` industry, create truly interactive, immersive metaverse experiences for live events, sports, betting, e-learning and entertainment. Make your Unity games alive, utilize new monetization opportunities with video ads in Web3-enabled virtual world. To get a demo please contact us at [admin@hisplayer.com](mailto:admin@hisplayer.com).
 
-## Create immersive experience example
+## Immersive experience 
 
 <p align="center">Include high quality video streaming into gaming and metaverse</p>
 <p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Unity_video_streaming.gif"  width="100%" height="100%"></a>
@@ -53,8 +53,15 @@ Unity Versions: 2019 and higher
   -  `Metal`
 - webGL
   -  `WebGL 1.0` & `WebGL 2.0`
-- Windows, Xbox, Windows UWP, HoloLens
+- Windows 
+  - `DirectX11` & `DirectX12`
+- Xbox
   - `DirectX11` & `DirectX12` 
+- Windows UWP
+  - `DirectX11` & `DirectX12` 
+- HoloLens
+  - `DirectX11` & `DirectX12`
+  
 
 <br>
 
@@ -66,6 +73,7 @@ Streaming formats:
 - Progressive download and local playback mp4 
 - HLS 
 - DASH
+
 
 ```html
 Editor:
@@ -83,8 +91,7 @@ Playback and Streaming Features:
 - Loop Playback
 - Rendering Videos on 2D & 3D Objects
 - Configurable Aspect Ratio
-- Portrait / Landscape Orientation
-- Stereo 360 video playback and VR 
+- Portrait / Landscape Orientation 
 - Adaptive Bitrate(ABR) and 8K (UHD) Video 
 - Multiple Audio & Subtitle Track
 - Synchronization of video with audio
@@ -92,10 +99,11 @@ Playback and Streaming Features:
 - Offline Streaming Playback with HLS & DASH
 - Adjustable Buffering Time 
 - Spread Video Across Multiple Objects
+- Transparency and Chroma Support
 - MultiView 
   -  Display Multiple Synchronized Streams
 - MultiStreaming 
-  -  Option to select the event from alternative camera anlges
+  -  Option to select the action from alternative camera anlges
 
 ```html
 Audio:
@@ -119,40 +127,17 @@ Subtitles and Closed Captions:
 Metadata:
 - ID3 timded metadata
 ```
-- 
 
-
-      
-       <li>MultiView (Display Multiple Synchronized Streams): Android & iOS only</li>
-    
-       <li>Multiple Audio & Subtitle Track Selection</li>
-       <li>Spread Video Across Multiple Objects</li>
-       <li>Transparency and Chroma Support</li>
-        <li>Metadata: ID3 tags</li>
-        <li>Audio PCM data</li>
-        <li>AudioSource piping to Unity</li>
-       </ul>
-     </td>
-     </tr>
-      <tr>
-        <td valign="top" style="text-align:center;">
-        <p style="max-width:100%;"><b>360 Video Playback and Virtual Reality (VR)</b></p>
-         </td>
-     <td>
-       <ul>
-       <li>Touch input which includes movement, and camera rotation</li>
-       <li>Gyroscope input to move the camera</li>
-       <li>Mouse input to move the camera</li>
-       <li>Automatic Ground Leveler to stabilize the video</li>
-       <li>Custom shaders to map 2D, 3D Over/Under and 3D Left/Right 360 videos</li>
-       <li>Compatible with VR libraries for Unity (Google Cardboard, Vive & Oculus)</li>
-       </ul>
-     </td>
-     </tr>
-   </tr>
- </tbody>
-</table>
-
+```html
+Stereo 360 video playback and VR
+```
+- Touch input which includes movement, and camera rotation
+- Gyroscope input to move the camera
+- Automatic Ground Leveler to stabilize the video
+- Custom shaders to map 2D, 3D Over/Under and 3D Left/Right 360 videos
+- Compatible with VR libraries for Unity 
+  -  VR, AR, MR, Headsets: Google Cardboard, Daydream, Pico, HTC Vive & Oculus/Meta Quest.. 
+  
 
 ## Contact
 [admin@hisplayer.com](mailto:admin@hisplayer.com)
