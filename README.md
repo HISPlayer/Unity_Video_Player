@@ -74,11 +74,14 @@ Streaming formats:
 - HLS 
 - DASH
 
+<br>
 
 ```html
 Editor:
 ```
 - Windows & macOS Editor
+  
+<br>
 
 ```html
 Playback and Streaming Features:
@@ -95,15 +98,19 @@ Playback and Streaming Features:
 - Adaptive Bitrate(ABR) and 8K (UHD) Video 
 - Multiple Audio & Subtitle Track
 - Synchronization of video with audio
+- AES-128 encryption
 - Video Ad insertion & monetization
 - Offline Streaming Playback with HLS & DASH
 - Adjustable Buffering Time 
 - Spread Video Across Multiple Objects
 - Transparency and Chroma Support
+- Content Information and Statistics (Audio & Video Bitrate, Codec, Average FPS, etc.)
 - MultiView 
   -  Display Multiple Synchronized Streams
 - MultiStreaming 
   -  Option to select the action from alternative camera anlges
+
+<br>
 
 ```html
 Audio:
@@ -113,6 +120,7 @@ Audio:
 - Audio PCM Data
 - Mono, Stereo, 3D Audio ambisonics
 
+<br>
 
 ```html
 Subtitles and Closed Captions:
@@ -122,12 +130,15 @@ Subtitles and Closed Captions:
 - TTML
 - SRT
 
+  <br>
 
 ```html
-Metadata:
+Timed Metadata:
 ```
 - ID3 tags
 
+<br>
+  
 ```html
 Stereo 360 video playback and VR
 ```
