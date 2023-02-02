@@ -11,7 +11,7 @@ Our `Unity Video Streaming Plugin` supports video on demand (VoD) and live video
 
 It opens the possibility to merge `gaming` with `OTT video streaming` industry, create truly interactive, immersive metaverse experiences for live events, sports, betting, e-learning and entertainment. Make your Unity games alive, utilize new monetization opportunities with video ads in Web3-enabled virtual world. To get a demo please contact us at [admin@hisplayer.com](mailto:admin@hisplayer.com).
 
-## Create immersive experiences
+## Create immersive experience example
 
 <p align="center">Include high quality video streaming into gaming and metaverse</p>
 <p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Unity_video_streaming.gif"  width="100%" height="100%"></a>
@@ -34,9 +34,16 @@ It opens the possibility to merge `gaming` with `OTT video streaming` industry, 
 | HLS | &check; | &check; | &check; | &check; | &check; | &check; | &check; | &check; | 
 | DASH | &check; | |  | &check; | &check; | &check; | &check; | &check; | 
 | mp4 | &check; | &check; | &check; | | &check; | &check; | &check; | &check; | 
-| Streaming Assets | &check; | &check; | &check; | | &check; | &check; | &check; | &check; | 
+| StreamingAssets | &check; | &check; | &check; | | &check; | &check; | &check; | &check; | 
 
- 
+<br>
+<p>
+
+```html
+Unity Versions: 2019 and higher 
+```
+
+
 <a href="red">Supported Graphics APIs:</a>
 - Android
   -  `OpenGLES2` & `OpenGLES3`
@@ -51,43 +58,73 @@ It opens the possibility to merge `gaming` with `OTT video streaming` industry, 
 
 <br>
 
-## Features
+## Features Overview
 
 ```html
-Overview:
+Streaming formats:
 ```
-- mp4 progressive download and local playback mp4 
-- HLS & DASH Streaming
-- Adaptive Bitrate(ABR) and 8K (UHD) video 
-- AES-128 HLS
-- Windows & macOS Editor
-- Rendering Videos on 2D & 3D Objects
+- Progressive download and local playback mp4 
+- HLS 
+- DASH
 
 ```html
-Playback features:
+Editor:
+```
+- Windows & macOS Editor
+
+```html
+Playback and Streaming Features:
 ```
 - Auto Playback 
 - Play / Pause
 - Seek
 - Audio Volume Adjustment
+- Mute
 - Loop Playback
-
-```html
-Playback and streaming features:
-```
-
-- Auto Playback
-- Play / Pause
-- Seek
-- Audio Volume Adjustment
-- Loop Playback
+- Rendering Videos on 2D & 3D Objects
 - Configurable Aspect Ratio
 - Portrait / Landscape Orientation
+- Stereo 360 video playback and VR 
+- Adaptive Bitrate(ABR) and 8K (UHD) Video 
+- Multiple Audio & Subtitle Track
+- Synchronization of video with audio
+- Video Ad insertion & monetization
+- Offline Streaming Playback with HLS & DASH
+- Adjustable Buffering Time 
+- Spread Video Across Multiple Objects
+- MultiView 
+  -  Display Multiple Synchronized Streams
+- MultiStreaming 
+  -  Option to select the event from alternative camera anlges
 
-       <ul>
-       <li>Offline Streaming Playback for HLS & DASH</li>
+```html
+Audio:
+```
+- Only Audio streams
+- Audio playback back to Unity `AudioSource` to deliver 2D & 3D spatial audio sound effect
+- Audio PCM Data
+- Mono, Stereo, 3D Audio ambisonics
+
+
+```html
+Subtitles and Closed Captions:
+```
+- WebVTT
+- CEA 608/708
+- TTML
+- SRT
+
+
+```html
+Metadata:
+- ID3 timded metadata
+```
+- 
+
+
+      
        <li>MultiView (Display Multiple Synchronized Streams): Android & iOS only</li>
-       <li>WebVTT Subtitles & CEA-608/708 Closed Captions</li>
+    
        <li>Multiple Audio & Subtitle Track Selection</li>
        <li>Spread Video Across Multiple Objects</li>
        <li>Transparency and Chroma Support</li>
