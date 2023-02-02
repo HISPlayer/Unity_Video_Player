@@ -140,7 +140,7 @@ Timed Metadata:
 <br>
   
 ```html
-Stereo 360 video playback and VR
+Mono, Stereo 360 video playback and VR
 ```
 - Touch input which includes movement, and camera rotation
 - Gyroscope input to move the camera
