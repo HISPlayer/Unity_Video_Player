@@ -125,8 +125,8 @@ Subtitles and Closed Captions:
 
 ```html
 Metadata:
-- ID3 timded metadata
 ```
+- ID3 tags
 
 ```html
 Stereo 360 video playback and VR
