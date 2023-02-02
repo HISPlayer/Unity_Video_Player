@@ -27,7 +27,7 @@ It opens the possibility to merge `gaming` with `OTT video streaming` industry, 
 
 <a href="red">Supported Platforms & Streaming Formats:</a>
 
-*Using HisPlayer for Unity bring high quality and seamless video playback experience across multiple platforms.*
+*With HisPlayer for Unity bring high quality and seamless video playback experience across multiple platforms.*
 
 | | Android | iOS | macOS |WebGL | Windows | Xbox | Windows UWP | HoloLens |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
