@@ -108,7 +108,7 @@ Playback and Streaming Features:
 - MultiView 
   -  Display Multiple Synchronized Streams
 - MultiStreaming 
-  -  Option to select the action from alternative camera anlges
+  -  Stream multiple live events on one screen (option to select the action from alternative camera anlges)
 
 <br>
 
