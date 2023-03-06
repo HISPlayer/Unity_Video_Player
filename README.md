@@ -152,7 +152,7 @@ Mono, Stereo 360 video playback and VR
 
 ## Contact
 [contact@hisplayer.com](mailto:contact@hisplayer.com)
-<br>See you at trade shows around the world!
+<br>Let's meet at trade shows around the world!
 
 <br> 
 </br>
