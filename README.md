@@ -1,9 +1,10 @@
-</br>
-<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/lastunity.png"  width="100%" height="100%"></a>
+<h1 style="line-height:2;">
+<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Logo_Unity_Github_v2.png"  width="100%" height="100%"></a>
 
-</p>
+</p></h1>
 </br>
 
+<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Unity_video_streaming.gif"  width="100%" height="100%"></a>
 
 Advanced <a href="blue">`Unity Video Streaming SDK`</a> for premium Gaming & Metaverse services.
 
@@ -16,9 +17,7 @@ It opens the possibility to merge `gaming` with `OTT video streaming` industry, 
 <p align="center">Include high quality video streaming into gaming and metaverse</p>
 <p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Unity_video_streaming.gif"  width="100%" height="100%"></a>
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="100%" alt="1.gif" src="https://github.com/HisPlayer/HisPlayer_Unity_Video_Streaming_Plugin/blob/main/resources/1.gif"> Metaverse megapolis | <img width="100%" alt="2.gif" src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/2.gif"> In-game concerts|<img width="100%" alt="3.gif" src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/3.gif"> Party at live events|
+
 
 
 
