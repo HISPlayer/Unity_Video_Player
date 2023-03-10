@@ -6,7 +6,7 @@
 
 <p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Bring video streaming into Unity, make your game alive.gif"  width="80%" height="70%"></a>
   
-HISPlayer is the most advanced video streaming player for Unity. It enables premium DASH and HLS video streaming inside your games and metaverses on Android, iOS, Windows, macOS, Xbox, VR Headsets, UWP(Universal Windows Platform) HoloLens and WebGL.
+HISPlayer is the most advanced video streaming player for Unity. It enables premium DASH and HLS video streaming inside your games and metaverses on Android, iOS, Windows, macOS, Xbox, VR Headsets, UWP(Universal Windows Platform), HoloLens and WebGL.
 
 This repository contains the HISPlayer’s Unity video streaming player plugin features list. If you want to get a demo of our fully working player library, contact us at our [website](https://www.hisplayer.com/demo-gaming/).
 
