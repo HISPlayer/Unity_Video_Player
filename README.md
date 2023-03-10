@@ -17,51 +17,112 @@ This repository contains the HISPlayer’s Unity video streaming player plugin f
 <p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Unity_video_streaming.gif"  width="100%" height="100%"></a>
 
 
+## Table of Contents
+
+* **[Features](#features)**  
+
+* **[Supported Platforms](#supported-platforms)**
+
+
+ <br> 
+
+## Features
+
+The HISPlayer for Unity video streaming player plugin contains the latest features. Our expert engineering resources offer implementation of any desired functionalities. 
+
+We support the following features:
+
+<table>
+ <tbody style="text-align:center;">
+   <tr>
+     <td valign="top" style="text-align:center;">
+         <p style="max-width:100%;"><b>Overview</b></p>
+     </td>
+     <td>
+       <ul>
+       <li>RTSP</li>
+       <li>mp4 download and playback</li>
+       <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
+       <li>AES-128 HLS</li>
+       <li>Widevine DRM for Streaming and Local Playback for Android</li>
+       <li>Windows & macOS Editor (Easy to Use)</li>
+       <li>Up to 8K (UHD) Resolution</li>
+       <li>Rendering Videos on 2D & 3D Objects</li>
+       </ul>
+     </td>
+        <tr>
+            <td valign="top" style="text-align:center;">
+            <p style="max-width:100%;"><b>Basic Features</b></p>
+     </td>
+     <td>
+       <ul>
+        <li>Auto Playback</li>
+        <li>Play / Pause</li>
+        <li>Seek</li>
+        <li>Audio Volume Adjustment</li>
+        <li>Loop Playback</li>
+        <li>Configurable Aspect Ratio</li>
+        <li>Portrait / Landscape Orientation</li>
+       </ul>
+     </td>
+     </tr>
+     <tr>
+        <td valign="top" style="text-align:center;">
+        <p style="max-width:100%;text-align:center;"><b>Advanced Features</b></p>
+         </td>
+     <td>
+       <ul>
+       <li>Offline Streaming Playback for HLS & DASH</li>
+       <li>MultiView (Display Multiple Synchronized Streams): Android & iOS only</li>
+       <li>WebVTT Subtitles & CEA-608/708 Closed Captions</li>
+       <li>Multiple Audio & Subtitle Track Selection</li>
+       <li>Spread Video Across Multiple Objects</li>
+       <li>Transparency and Chroma Support</li>
+        <li>Metadata: ID3 tags</li>
+        <li>Audio PCM data</li>
+        <li>AudioSource piping to Unity</li>
+       </ul>
+     </td>
+     </tr>
+      <tr>
+        <td valign="top" style="text-align:center;">
+        <p style="max-width:100%;"><b>360 Video Playback and Virtual Reality (VR)</b></p>
+         </td>
+     <td>
+       <ul>
+       <li>Touch input which includes movement, and camera rotation</li>
+       <li>Gyroscope input to move the camera</li>
+       <li>Mouse input to move the camera</li>
+       <li>Automatic Ground Leveler to stabilize the video</li>
+       <li>Custom shaders to map 2D, 3D Over/Under and 3D Left/Right 360 videos</li>
+       <li>Compatible with VR libraries for Unity (Google Cardboard, Vive & Oculus)</li>
+       </ul>
+     </td>
+     </tr>
+   </tr>
+ </tbody>
+</table>
+
+## Supported Platforms
+
+| Platform | Supported Graphics APIs | HLS | DASH | Local | Inside App (Streaming Assets) | DRM protection |
+| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
+| Android  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
+| iOS | Metal | :heavy_check_mark: | | :heavy_check_mark: | :heavy_check_mark: | |
+| Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|macOS|Metal|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
+|HTML 5|WebGL 1.0 / WebGL 2.0|:heavy_check_mark:|:heavy_check_mark:|||
+|Xbox| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|HoloLens| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|[UWP](https://docs.microsoft.com/en-us/windows/uwp/audio-video-camera/supported-codecs)| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+
 
 
 
 <br>
 <p>
 
-<a href="red">Supported Platforms & Streaming Formats:</a>
 
-*With HisPlayer for Unity bring high quality and seamless video playback experience across multiple platforms.*
-
-| | Android | iOS | macOS |WebGL | Windows | Xbox | Windows UWP | HoloLens |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| HLS | &check; | &check; | &check; | &check; | &check; | &check; | &check; | &check; | 
-| DASH | &check; | |  | &check; | &check; | &check; | &check; | &check; | 
-| mp4 | &check; | &check; | &check; | | &check; | &check; | &check; | &check; | 
-| StreamingAssets | &check; | &check; | &check; | | &check; | &check; | &check; | &check; | 
-
-<br>
-<p>
-
-```html
-Unity Versions: 2019 and higher 
-```
-
-
-<a href="red">Supported Graphics APIs:</a>
-- Android
-  -  `OpenGLES2` & `OpenGLES3`
-- iOS
-  -  `Metal`
-- macOS
-  -  `Metal`
-- webGL
-  -  `WebGL 1.0` & `WebGL 2.0`
-- Windows 
-  - `DirectX11` & `DirectX12`
-- Xbox
-  - `DirectX11` & `DirectX12` 
-- Windows UWP
-  - `DirectX11` & `DirectX12` 
-- HoloLens
-  - `DirectX11` & `DirectX12`
-  
-
-<br>
 
 ## Features Overview
 
@@ -150,7 +211,7 @@ Mono, Stereo 360 video playback and VR
 
 ## Contact
 [contact@hisplayer.com](mailto:contact@hisplayer.com)
-<br>Let's meet at trade shows around the world!
+
 
 <br> 
 </br>
