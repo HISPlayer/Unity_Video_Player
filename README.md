@@ -44,7 +44,6 @@ We support the following features:
        <li>mp4 download and playback</li>
        <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
        <li>AES-128 HLS</li>
-       <li>Widevine DRM for Streaming and Local Playback for Android</li>
        <li>Windows & macOS Editor (Easy to Use)</li>
        <li>Up to 8K (UHD) Resolution</li>
        <li>Rendering Videos on 2D & 3D Objects</li>
@@ -73,15 +72,18 @@ We support the following features:
      <td>
        <ul>
        <li>Offline Streaming Playback for HLS & DASH</li>
-       <li>MultiView (Display Multiple Synchronized Streams): Android & iOS only</li>
+       <li>MultiStream</li>
+       <li>MultiView (Display Multiple Synchronized Streams)</li>
        <li>WebVTT Subtitles & CEA-608/708 Closed Captions</li>
        <li>Multiple Audio & Subtitle Track Selection</li>
        <li>Spread Video Across Multiple Objects</li>
        <li>Transparency and Chroma Support</li>
         <li>Metadata: ID3 tags</li>
-        <li>Audio PCM data</li>
+        <li>Audio playback back to Unity AudioSource to deliver 2D & 3D spatial audio sound effect</li>
         <li>AudioSource piping to Unity</li>
-       </ul>
+        <li>Audio PCM Data</li>
+        <li>Mono, Stereo, 3D Audio ambisonics</li>
+        </ul>
      </td>
      </tr>
       <tr>
@@ -124,90 +126,20 @@ We support the following features:
 
 
 
-## Features Overview
 
-```html
-Streaming formats:
-```
-- Progressive download and local playback mp4 
-- HLS 
-- DASH
-
-<br>
-
-```html
-Editor:
-```
-- Windows & macOS Editor
   
 <br>
 
-```html
-Playback and Streaming Features:
-```
-- Auto Playback 
-- Play / Pause
-- Seek
-- Audio Volume Adjustment
-- Mute
-- Loop Playback
-- Rendering Videos on 2D & 3D Objects
-- Configurable Aspect Ratio
-- Portrait / Landscape Orientation 
-- Adaptive Bitrate(ABR) and 8K (UHD) Video 
-- Multiple Audio & Subtitle Track
-- Synchronization of video with audio
-- AES-128 encryption
-- Video Ad insertion & monetization
-- Offline Streaming Playback with HLS & DASH
-- Adjustable Buffering Time 
-- Spread Video Across Multiple Objects
-- Transparency and Chroma Support
 - Content Information and Statistics (Audio & Video Bitrate, Codec, Average FPS, etc.)
 - MultiView 
   -  Display Multiple Synchronized Streams
 - MultiStreaming 
   -  Stream multiple live events on one screen (option to select the action from alternative camera anlges)
 
-<br>
 
-```html
-Audio:
-```
-- Only Audio streams
-- Audio playback back to Unity `AudioSource` to deliver 2D & 3D spatial audio sound effect
-- Audio PCM Data
-- Mono, Stereo, 3D Audio ambisonics
+- 
 
 <br>
-
-```html
-Subtitles and Closed Captions:
-```
-- WebVTT
-- CEA 608/708
-- TTML
-- SRT
-
-<br>
-
-```html
-Timed Metadata:
-```
-- ID3 tags
-
-<br>
-  
-```html
-Mono, Stereo 360 video playback and VR
-```
-- Touch input which includes movement, and camera rotation
-- Gyroscope input to move the camera
-- Automatic Ground Leveler to stabilize the video
-- Custom shaders to map 2D, 3D Over/Under and 3D Left/Right 360 videos
-- Compatible with VR libraries for Unity 
-  -  VR, AR Headsets: Google Cardboard, Daydream, Pico, HTC Vive & Oculus/Meta Quest.. 
-  
 
 ## Contact
 [contact@hisplayer.com](mailto:contact@hisplayer.com)
