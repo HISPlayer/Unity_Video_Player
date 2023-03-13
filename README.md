@@ -8,14 +8,17 @@
   
 HISPlayer is the most advanced video streaming player for Unity. It enables premium DASH and HLS video streaming inside your games and metaverses on Android, iOS, Windows, macOS, Xbox, VR Headsets, UWP(Universal Windows Platform), HoloLens and WebGL.
 
-This repository contains the HISPlayer’s Unity video streaming player plugin features list. If you want to get a demo of our fully working player library, contact us at our [website](https://www.hisplayer.com/demo-gaming/).
+This repository is to showcase the HISPlayer’s Unity video streaming player plugin features list and supported platforms. If you want to get a demo of our latest player library, contact us at our [website](https://www.hisplayer.com/demo-gaming/).
 
+<br>
 
-## Gaming and Metaverse Examples 
+## Gaming and Metaverse Example 
 
-<p align="center">Include high quality video streaming into gaming and metaverse</p>
-<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Unity_video_streaming.gif"  width="100%" height="100%"></a>
+Our Unity video streaming plugin allows to create new exciting scenes within your Unity projects. With our plugin, you can use in-game actions and objects to modify video content dynamically.
+<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/ateme (3).gif"  width="100%" height="100%"></a>
+<p align="center">Include high quality Multiple Streams into your games and metaverses</p>
 
+<br>
 
 ## Table of Contents
 
@@ -28,7 +31,7 @@ This repository contains the HISPlayer’s Unity video streaming player plugin f
 
 ## Features
 
-The HISPlayer for Unity video streaming player plugin contains the latest features. Our expert engineering resources offer implementation of any desired functionalities. 
+The HISPlayer for Unity video streaming player plugin contains the latest features. In addition, our engineering experts in video player development can implement any desired functionalities for advanced and personalized use cases. 
 
 We support the following features:
 
@@ -40,11 +43,9 @@ We support the following features:
      </td>
      <td>
        <ul>
-       <li>RTSP</li>
        <li>mp4 download and playback</li>
        <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
        <li>AES-128 HLS</li>
-       <li>Windows & macOS Editor (Easy to Use)</li>
        <li>Up to 8K (UHD) Resolution</li>
        <li>Rendering Videos on 2D & 3D Objects</li>
        </ul>
@@ -78,11 +79,6 @@ We support the following features:
        <li>Multiple Audio & Subtitle Track Selection</li>
        <li>Spread Video Across Multiple Objects</li>
        <li>Transparency and Chroma Support</li>
-        <li>Metadata: ID3 tags</li>
-        <li>Audio playback back to Unity AudioSource to deliver 2D & 3D spatial audio sound effect</li>
-        <li>AudioSource piping to Unity</li>
-        <li>Audio PCM Data</li>
-        <li>Mono, Stereo, 3D Audio ambisonics</li>
         </ul>
      </td>
      </tr>
@@ -105,6 +101,8 @@ We support the following features:
  </tbody>
 </table>
 
+<br>
+
 ## Supported Platforms
 
 | Platform | Supported Graphics APIs | HLS | DASH | Local | Inside App (Streaming Assets) | DRM protection |
@@ -120,24 +118,6 @@ We support the following features:
 
 
 
-
-<br>
-<p>
-
-
-
-
-  
-<br>
-
-- Content Information and Statistics (Audio & Video Bitrate, Codec, Average FPS, etc.)
-- MultiView 
-  -  Display Multiple Synchronized Streams
-- MultiStreaming 
-  -  Stream multiple live events on one screen (option to select the action from alternative camera anlges)
-
-
-- 
 
 <br>
 
