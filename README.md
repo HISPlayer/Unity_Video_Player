@@ -104,8 +104,8 @@ We support the following features:
 
 ## Supported Platforms
 
-| Platform | Supported Graphics APIs | HLS | DASH | Local | Inside App (Streaming Assets) | DRM protection |
-| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
+| Platform | Supported Graphics APIs | HLS | DASH | Local | Inside App (Streaming Assets) |
+| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
 | Android  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
 | iOS | Metal | :heavy_check_mark: | | :heavy_check_mark: | :heavy_check_mark: | |
 | Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
