@@ -14,7 +14,7 @@ This repository is to showcase the HISPlayer’s Unity video streaming player pl
 ## Gaming and Metaverse Example 
 
 Our Unity video streaming plugin allows to create new exciting scenes within your Unity projects. With our plugin, you can use in-game actions and objects to modify video content dynamically.
-<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/ateme (3).gif"  width="80%" height="80%"></a>
+<p align="center"><a href="https://www.hisplayer.com/demo-gaming/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/ateme (3).gif"  width="80%" height="80%"></a>
 <p align="center">Include high quality Multiple Streams into your games and metaverses</p>
 
 <br>
