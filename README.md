@@ -73,7 +73,6 @@ We support the following features:
      <td>
        <ul>
        <li>Offline Streaming Playback for HLS & DASH</li>
-       <li>Widevine DRM protection(Android)</li>
        <li>MultiStream</li>
        <li>MultiView (Display Multiple Synchronized Streams)</li>
        <li>WebVTT Subtitles & CEA-608/708 Closed Captions</li>
