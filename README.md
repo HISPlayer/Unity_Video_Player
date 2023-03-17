@@ -72,13 +72,17 @@ We support the following features:
      <td>
        <ul>
        <li>Offline Streaming Playback for HLS & DASH</li>
+       <li> Widevine DRM protection (Android)</li>
        <li>MultiStream</li>
        <li>MultiView (Display Multiple Synchronized Streams)</li>
        <li>WebVTT Subtitles & CEA-608/708 Closed Captions</li>
        <li>Multiple Audio & Subtitle Track Selection</li>
        <li>Spread Video Across Multiple Objects</li>
        <li>Transparency and Chroma Support</li>
-        </ul>
+       <li>Metadata: ID3 tags</li>
+       <li>Audio playback back to Unity AudioSource (2D & 3D spatial audio sound effect)</li>
+       <li>Mono, Stereo, 3D Audio ambisonics</li>
+       </ul>
      </td>
      </tr>
       <tr>
@@ -130,5 +134,4 @@ We support the following features:
 
 
 <br>
-<sub><sup>WebGL, Video Player WebGL, Unity Video Player on WebGL, Unity Video Player, playing video in unity, Play Video in Unity WebGL, HTML5 Video Player for Unity WebGL, Live Video in WebGL, 3D, UnityEngine.Video, UnityEngine.VideoModule, Unity Engine Video, VideoPlayer.renderMode, renderheads/unityplugin, Video Player component - Unity, Web3, web3 gaming and entertainment, blockchain, Cryptocurrency, Playing Video in Unity, Best VR Video Player for Unity, UnityEngine.VideoPlayer, UnityEngine.VideoClip, Metaverse, Advanced video playback for Unity, Unity Asset Store, Immersive 360 video experience, Augmented, Mixed, Virtual Reality, Oculus Quest, Oculus Quest2, Hololense Meta Quest, Gear VR, Google Cardboard, Daydream, HTC Vive Focus, Pico Goblin & Neo, EDM, Electronic Dance Music, Audio PCM data, Audio piping to Unity, Audio Source to Unity, Adding audio to your Unity scene, UWP, Windows, Playback raw PCM, How to play .pcm file, Gets PCM audio data, Unity3D, Amazon IVS Unity.</sub><sup>   
-<sub><sup>Unity Xbox video player, Xbox One S, Xbox One X, Series X/S live, Xbox, PCM audio, Playing Video in Unity, Livestreaming the Metaverse, Can Streaming Video Keep Up with the Metaverse? can streaming video survive the metaverse, AR, VR, XR, Amazon Interactive Video Service, timed metadata, embed metadata, metadata, ID3 tags, audio source, audio output, timestamps, HMI - Human Machine interface, infotainment, Automotive. </sub><sup> 
+<sub><sup>WebGL, Video Player WebGL, Unity Video Player on WebGL, Unity Video Player, playing video in unity, Play Video in Unity WebGL, HTML5 Video Player for Unity WebGL, Live Video in WebGL, 3D, UnityEngine.Video, UnityEngine.VideoModule, Unity Engine Video, VideoPlayer.renderMode, renderheads/unityplugin, Video Player component - Unity, Web3, web3 gaming and entertainment, blockchain, Cryptocurrency, Playing Video in Unity, Best VR Video Player for Unity, UnityEngine.VideoPlayer, UnityEngine.VideoClip, Metaverse, Advanced video playback for Unity, Unity Asset Store, Immersive 360 video experience, Augmented, Mixed, Virtual Reality, Oculus Quest, Oculus Quest2, Hololense Meta Quest, Gear VR, Google Cardboard, Daydream, HTC Vive Focus, Pico Goblin & Neo, EDM, Electronic Dance Music, Audio PCM data, Audio piping to Unity, Audio Source to Unity, Adding audio to your Unity scene, UWP, Windows, Playback raw PCM, How to play .pcm file, Gets PCM audio data, Unity3D, Amazon IVS Unit, Unity DRM videoplayer, Widevine, Unity Xbox video player, Xbox One S, Xbox One X, Series X/S live, Xbox, PCM audio, Playing Video in Unity, Livestreaming the Metaverse, Can Streaming Video Keep Up with the Metaverse? can streaming video survive the metaverse, AR, VR, XR, Amazon Interactive Video Service, timed metadata, embed metadata, metadata, ID3 tags, audio source, audio output, timestamps, HMI - Human Machine interface, infotainment, Automotive. </sub><sup> 
