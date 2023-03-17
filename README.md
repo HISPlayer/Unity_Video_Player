@@ -7,7 +7,7 @@
   
 HISPlayer is the most advanced video streaming player for Unity. It enables premium DASH and HLS video streaming inside your games and metaverses on Android, iOS, Windows, macOS, Xbox, VR Headsets, UWP(Universal Windows Platform), HoloLens and WebGL.
 
-This repository is to showcase the HISPlayer’s Unity video streaming player plugin features list and supported platforms. If you want to get a demo of our latest player library, contact us at our [website](https://www.hisplayer.com/demo-gaming/).
+This repository is to showcase the HISPlayer’s Unity video streaming player plugin features list and supported platforms. If you want to get a demo of our latest player libraryw with full document, contact us at our [website](https://www.hisplayer.com/demo-gaming/).
 
 <br>
 
@@ -45,6 +45,7 @@ We support the following features:
        <li>mp4 download and playback</li>
        <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
        <li>AES-128 HLS</li>
+       <li>Widevine DRM</li>
        <li>Up to 8K (UHD) Resolution</li>
        <li>Rendering Videos on 2D & 3D Objects</li>
        </ul>
@@ -72,7 +73,7 @@ We support the following features:
      <td>
        <ul>
        <li>Offline Streaming Playback for HLS & DASH</li>
-       <li> Widevine DRM protection (Android)</li>
+       <li>Widevine DRM protection(Android)</li>
        <li>MultiStream</li>
        <li>MultiView (Display Multiple Synchronized Streams)</li>
        <li>WebVTT Subtitles & CEA-608/708 Closed Captions</li>
