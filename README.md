@@ -43,6 +43,7 @@ We support the following features:
      </td>
      <td>
        <ul>
+       <li>Real Time Streaming Protocol(RTSP)</li>
        <li>mp4 download and playback</li>
        <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
        <li>AES-128 HLS</li>
