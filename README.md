@@ -31,7 +31,7 @@ Our Unity video streaming plugin allows to create new exciting scenes within you
 
 ## Features
 
-The HISPlayer video streaming player for Unity includes flexible feature set to enable outstanding and personalized user experience. If you need specific features not supported yet, don't hesitate to contact us at our [website](https://www.hisplayer.com/demo-gaming/). 
+The HISPlayer video streaming player for Unity includes flexible feature set to enable outstanding and personalized user experience. If you need specific or advanced features, please don't hesitate to contact us at our [website](https://www.hisplayer.com/demo-gaming/). 
 
 We support the following features:
 
