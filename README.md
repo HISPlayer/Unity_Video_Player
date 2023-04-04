@@ -6,15 +6,15 @@
 <p align="center"><a href="https://www.hisplayer.com/demo-gaming/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Bring video streaming into Unity, make your game alive.gif"  width="100%" height="100%"></a>
   
 HISPlayer is the most advanced video streaming player for Unity. It enables premium DASH and HLS video streaming inside your games and metaverses on Android, iOS, Windows, macOS, VR Headsets, and WebGL. 
-The only Unity video streaming player supporting Widevine DRM protection.
+We include the support of Widevine DRM protection.
 
-In this repository, you can explore the comprehensive list of features offered by HISPlayer's Unity video streaming player plugin, as well as the variety of platforms it supports. If you're interested in seeing a demo of our latest player library, complete with full documentation, simply visit our [website](https://www.hisplayer.com/demo-gaming/) and contact us.
+In this repository, you can explore the comprehensive list of features offered by HISPlayer's Unity video streaming player plugin, as well as the variety of platforms it supports. If you're interested in seeing a demo of our latest player library, simply visit our [website](https://www.hisplayer.com/demo-gaming/) and contact us.
 
 <br>
 
 ## Gaming and Metaverse Example 
 
-Our Unity video streaming plugin allows you to create new exciting scenes within your Unity projects. With our plugin, you can use in-game actions and objects to modify video content dynamically.
+Our Unity video streaming plugin allows you to create new exciting scenes inside your Unity projects, such as video ads, the possibility to enjoy premium video contents or to include dynamic video contents related to your games that can change from day to day...
 <p align="center"><a href="https://www.hisplayer.com/demo-gaming/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/ateme (3).gif"  width="80%" height="80%"></a>
 <p align="center">Include high quality Multiple Streams into your games and metaverses</p>
 
@@ -31,9 +31,9 @@ Our Unity video streaming plugin allows you to create new exciting scenes within
 
 ## Features
 
-The HISPlayer video streaming player for Unity includes flexible features set to enable outstanding and personalized user experience. If you need specific or advanced functionalities, please don't hesitate to contact us at our [website](https://www.hisplayer.com/demo-gaming/). 
+The HISPlayer video streaming player for Unity includes a growing list of features on top of the most optimized software to secure the best video quality at any device. Our team is expert in media player technology, ready to face any technology challenge. If you need specific or advanced functionalities, please don't hesitate to contact us at our [website](https://www.hisplayer.com/demo-gaming/). 
 
-We support the following features:
+This is a list of the most important features supported by the plugin:
 
 <table>
  <tbody style="text-align:center;">
