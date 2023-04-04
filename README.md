@@ -14,7 +14,7 @@ In this repository, you can explore the comprehensive list of features offered b
 
 ## Gaming and Metaverse Example 
 
-Our Unity video streaming plugin allows you to create new exciting scenes inside your Unity projects, such as video ads, the possibility to enjoy premium video contents or to include dynamic video contents related to your games that can change from day to day...
+Our Unity video streaming plugin allows you to create new exciting scenes inside your Unity projects, such as video ads, the possibility to enjoy premium video contents or the option to include dynamic video contents related to your games that might be changed from day to day...
 <p align="center"><a href="https://www.hisplayer.com/demo-gaming/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/ateme (3).gif"  width="80%" height="80%"></a>
 <p align="center">Include high quality Multiple Streams into your games and metaverses</p>
 
