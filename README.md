@@ -83,6 +83,7 @@ This is a list of the most important features supported by the plugin:
        <li>Transparency and Chroma Support</li>
        <li>Metadata: ID3 tags</li>
        <li>Audio PCM data</li>
+       <li>Decoded Frame Buffer Retrieval</li>
        <li>Audio playback back to Unity AudioSource (2D & 3D spatial audio sound effect)</li>
        <li>Mono, Stereo, 3D Audio ambisonics</li>
        </ul>
