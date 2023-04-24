@@ -1,9 +1,9 @@
-<h1 style="line-height:2;"><p align="center"><a href="https://www.hisplayer.com/demo-unity-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Logo_Unity_Github.png"  width="100%" height="100%"></a>
+<h1 style="line-height:2;"><p align="center"><a href="https://www.hisplayer.com/unity-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Logo_Unity_Github.png"  width="100%" height="100%"></a>
 
 </p></h1>
 </br>
 
-<p align="center"><a href="https://www.hisplayer.com/demo-gaming/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Bring video streaming into Unity, make your game alive.gif"  width="100%" height="100%"></a>
+<p align="center"><a href="https://www.hisplayer.com/unity-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Bring video streaming into Unity, make your game alive.gif"  width="100%" height="100%"></a>
   
 HISPlayer is the most advanced video streaming player for Unity, supporting local, VOD and live contents. It enables premium DASH and HLS video streaming inside your games and metaverses on Android, iOS, Windows, macOS, VR Headsets, HoloLens, Xbox, and WebGL. 
 We include the support of DRM protection for premium contents and advanced features such as multistream or automatic bitrate adaptation to secure the best video quality.
@@ -15,7 +15,7 @@ In this repository you can explore the main list of features offered by HISPlaye
 ## Gaming and Metaverse Example 
 
 Our Unity video streaming plugin allows you to create new exciting scenes inside your Unity projects, such as video ads, the possibility to enjoy premium video contents or the option to include dynamic video contents related to your games that might be changed from day to day...
-<p align="center"><a href="https://www.hisplayer.com/demo-gaming/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/ateme (3).gif"  width="80%" height="80%"></a>
+<p align="center"><a href="https://www.hisplayer.com/unity-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/ateme (3).gif"  width="80%" height="80%"></a>
 <p align="center">Include high quality Multiple Streams into your games and metaverses</p>
 
 <br>
