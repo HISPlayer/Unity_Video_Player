@@ -126,6 +126,11 @@ This is a list of the most important features supported by the plugin:
 
 <br>
 
+## [The Full Documentation](https://hisplayer.github.io/)
+
+
+<br>
+
 ## Contact
 [contact@hisplayer.com](mailto:contact@hisplayer.com)
 
