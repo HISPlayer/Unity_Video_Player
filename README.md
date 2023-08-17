@@ -61,10 +61,11 @@ This is a list of the most important features supported by the plugin:
         <li>Auto Playback</li>
         <li>Play / Pause</li>
         <li>Seek</li>
-        <li>Audio Volume Adjustment</li>
+        <li>Audio Volume Adjustment / Mute</li>
         <li>Loop Playback</li>
         <li>Configurable Aspect Ratio</li>
         <li>Portrait / Landscape Orientation</li>
+        <li>Playback speed control</li>
        </ul>
      </td>
      </tr>
