@@ -1,4 +1,4 @@
-<h1 style="line-height:2;"><p align="center"><a href="https://www.hisplayer.com/unity-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Logo_Unity_Github.png"  width="100%" height="100%"></a>
+<h1 style="line-height:2;"><p align="center"><a href="https://www.hisplayer.com/unity-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Unity github.png"  width="100%" height="100%"></a>
 
 </p></h1>
 </br>
