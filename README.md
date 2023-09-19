@@ -43,7 +43,6 @@ This is a list of the most important features supported by the plugin:
      </td>
      <td>
        <ul>
-       <li>Real Time Streaming Protocol(RTSP)</li>
        <li>mp4 download and playback</li>
        <li>Live/VOD HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
        <li>AES-128 HLS</li>
