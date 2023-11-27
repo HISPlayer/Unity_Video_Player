@@ -6,10 +6,12 @@
 <p align="center"><a href="https://www.hisplayer.com/unity-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Bring video streaming into Unity, make your game alive.gif"  width="100%" height="100%"></a>
   
 HISPlayer is the most advanced video streaming player for Unity, supporting local, VOD and live content. It enables premium DASH and HLS video streaming inside your games and metaverses on Android, iOS, Windows, macOS, VR Headsets, HoloLens, Xbox, and WebGL. 
-We include the support of DRM protection for premium contents and advanced features such as multistream or automatic bitrate adaptation to secure the best video quality.
+We include the support of **DRM protection** for premium contents and advanced features such as multistream or automatic bitrate adaptation to secure the best video quality.
 
 In this repository you can explore the main list of features offered by HISPlayer's plugin, as well as the variety of platforms it supports. If you're missing any feature or are interested in seeing a demo of our latest player library, simply visit our [website](https://www.hisplayer.com/demo-unity-player-sdk-github/) and contact us.
 
+
+Supported Unity versions : 2020.X, 2021.X, 2022.X, 2023
 <br>
 
 ## Gaming and Metaverse Example 
