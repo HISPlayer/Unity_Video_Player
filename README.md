@@ -8,7 +8,7 @@
 HISPlayer is the most advanced video streaming player for Unity, supporting local, VOD and live content. It enables premium DASH and HLS video streaming inside your games and metaverses on Android, iOS, Windows, macOS, VR Headsets, HoloLens, Xbox, and WebGL. 
 We include the support of **DRM protection** for premium contents and advanced features such as multistream or automatic bitrate adaptation to secure the best video quality.
 
-In this repository you can explore the main list of features offered by HISPlayer's plugin, as well as the variety of platforms it supports. If you're missing any feature or are interested in seeing a demo of our latest player library, simply visit our [website](https://www.hisplayer.com/demo-unity-player-sdk-github/) and contact us.
+In this repository you can explore the main list of features offered by HlSPlayer's plugin, as well as the variety of platforms it supports. If you're missing any feature or are interested in seeing a demo of our latest player library, simply visit our [website](https://www.hisplayer.com/demo-unity-player-sdk-github/) and contact us.
 
 
 Supported Unity versions : 2020.X, 2021.X, 2022.X, 2023
@@ -33,7 +33,7 @@ Our Unity video streaming plugin allows you to create new exciting scenes inside
 
 ## Features
 
-The HISPlayer video streaming player for Unity includes a growing list of features on top of the most optimized software to secure the best video quality at any device. Our team are experts in media player technology, ready to face any technology challenge. If you need specific or advanced functionalities, please don't hesitate to contact us at our [website](https://www.hisplayer.com/demo-unity-player-sdk-github/). 
+The HlSPlayer video streaming player for Unity includes a growing list of features on top of the most optimized software to secure the best video quality at any device. Our team are experts in media player technology, ready to face any technology challenge. If you need specific or advanced functionalities, please don't hesitate to contact us at our [website](https://www.hisplayer.com/demo-unity-player-sdk-github/). 
 
 This is a list of the most important features supported by the plugin:
 
