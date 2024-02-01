@@ -135,7 +135,7 @@ This is a list of the most important features supported by the plugin:
 <br>
 Coming up soon: 
 
-Vulkan Cross platform 3D Graphics: Android - Meta Quest 3
+Vulkan cross platform 3D Graphics: Android - Meta Quest 3
 
 <br>
 
