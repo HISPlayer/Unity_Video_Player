@@ -133,10 +133,12 @@ This is a list of the most important features supported by the plugin:
 ## [The Full Documentation](https://hisplayer.github.io/)
 
 <br>
-Coming up soon: 
 
-Vulkan cross platform 3D Graphics support on Android - Meta Quest 3
-Support Unity apps developed for the Apple Vision Pro
+**Coming up soon:** 
+
+* Apple Vision Pro support
+* Vulkan cross platform 3D Graphics support on Android - Meta Quest 3
+
 
 <br>
 
