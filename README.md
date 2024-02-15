@@ -136,6 +136,7 @@ This is a list of the most important features supported by the plugin:
 Coming up soon: 
 
 Vulkan cross platform 3D Graphics support on Android - Meta Quest 3
+Support Unity apps developed for the Apple Vision Pro
 
 <br>
 
