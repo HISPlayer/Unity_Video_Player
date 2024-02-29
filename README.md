@@ -124,7 +124,7 @@ This is a list of the most important features supported by the plugin:
 | UWP| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | HoloLens | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |macOS|Metal|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
-|Apple Vision Pro| Metal|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
+|Vision Pro| Metal|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
 |HTML 5|WebGL 1.0 / WebGL 2.0|:heavy_check_mark:|:heavy_check_mark:||
 
 
