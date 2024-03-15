@@ -77,6 +77,7 @@ This is a list of the most important features supported by the plugin:
      <td>
        <ul>
        <li>Offline Streaming Playback for HLS & DASH</li>
+       <li>Offline HLS Playback with AES-128</li>
        <li>MultiStream</li>
        <li>MultiView (Display Multiple Synchronized Streams)</li>
        <li>Client-Side Ad Insertion (WebGL)</li>
