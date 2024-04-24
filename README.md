@@ -141,10 +141,6 @@ This is a list of the most important features supported by the plugin:
 * visionOS - the operating system of the Apple Vision Pro, Apple’s latest spatial computing device
 
 
-**Coming up soon:** 
-
-* Vulkan 3D Graphics API on Android
-
 
 <br>
 
