@@ -127,7 +127,7 @@ This is a list of the most important features supported by the plugin:
 |macOS|Metal|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
 |Vision Pro| Metal|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
 |HTML 5|WebGL 1.0 / WebGL 2.0|:heavy_check_mark:|:heavy_check_mark:||
-
+* visionOS - the operating system of the Apple Vision Pro, Apple’s latest spatial computing device
 
 
 <br>
@@ -136,11 +136,13 @@ This is a list of the most important features supported by the plugin:
 
 <br>
 
-**What is new:**
-
-* visionOS - the operating system of the Apple Vision Pro, Apple’s latest spatial computing device
 
 
+
+
+<br>
+
+## [TRY FREE DEMO HERE](https://github.com/HISPlayer/Unity_Video_Player/releases/tag/v3.4.1)
 
 <br>
 
