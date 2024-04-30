@@ -48,7 +48,7 @@ This is a list of the most important features supported by the plugin:
        <li>mp4 download and playback</li>
        <li>Live/VOD HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
        <li>AES-128 HLS</li>
-       <li>DRM Protected Content (Digital Rights Management) contact us</li>
+       <li>DRM Protected Content (Digital Rights Management)</li>
        <li>Up to 8K (UHD) Resolution</li>
        <li>Rendering Videos on 2D & 3D Objects</li>
        </ul>
