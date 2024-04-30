@@ -147,7 +147,7 @@ This is a list of the most important features supported by the plugin:
 <br>
 
 ## Contact
-> ***If you need DRM protection, custom development, and expedited customer support, please [contact us here](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/) to get the HISPlayer SDK Premium Version.***
+> ***If you need DRM protection, ad insertion, custom development, and expedited customer support, please [contact us here](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/) to get the HISPlayer SDK Premium Version.***
 
 
 Contact email: contact@hisplayer.com
