@@ -118,7 +118,7 @@ This is a list of the most important features supported by the plugin:
 
 ## Supported Platforms
 
-| Platform | Supported Graphics APIs | HLS | DASH | Local | Inside App (Streaming Assets) | DRM |
+| Platform | Supported Graphics APIs | HLS | DASH | Local | Inside App (Streaming Assets) | [DRM content protection](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/) |
 | :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
 | Android  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | iOS | Metal | :heavy_check_mark: | | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
