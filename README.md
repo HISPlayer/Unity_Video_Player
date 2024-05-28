@@ -17,7 +17,7 @@ Supported Unity versions : 2020.X, 2021.X, 2022.X, 2023
 ##  [NEW!](https://hisplayer.github.io/UnityVideoUpload/#/README)
 > If you need **[HISPlayer Video Upload / Hosting](https://hisplayer.github.io/UnityVideoUpload/#/README)** functionality, please contact us here: [contact@hisplayer.com](mailto:contact@hisplayer.com)
 > 
-> Now you can upload and host your videos to a server, generating your HLS/DASH streams directly from our Unity SDK. It means, we can help you with the full end-to-end delivery and playback.
+> Now you can upload and host your videos to a server, generating your HLS/DASH streams directly from our Unity SDK. It means, we can help you with the full **end-to-end** delivery and playback.
 <br>
 
 ## Gaming and Metaverse Example 
