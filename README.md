@@ -15,7 +15,7 @@ Supported Unity versions : 2020.X, 2021.X, 2022.X, 2023
 <br>
 
 ##  [NEW!](https://hisplayer.github.io/UnityVideoUpload/#/README)
-> **[HISPlayer Video Upload / Hosting](https://hisplayer.github.io/UnityVideoUpload/#/README)** is a new feature of our **Unity Video Player SDK** that allows you to upload local video files to a server and transcode them into HLS and DASH streaming URLs directly from our Unity SDK. Need to convert file-based content into streaming assets for multi-screen delivery at scale? Contact us here: [contact@hisplayer.com](mailto:contact@hisplayer.com)
+> **[HISPlayer Video Upload / Hosting](https://hisplayer.github.io/UnityVideoUpload/#/README)** is a new feature of our **Unity Video Player SDK** that allows you to upload local video files to a server and transcode them into HLS and DASH streaming URLs directly from our Unity SDK. Need to convert your videos into streaming assets for multi-screen delivery at scale? Contact us here: [contact@hisplayer.com](mailto:contact@hisplayer.com)
 > 
 > We can help you with the full **end-to-end** delivery and playback.
 <br>
