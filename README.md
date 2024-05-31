@@ -103,10 +103,11 @@ This is a list of the most important features supported by the plugin:
      </tr>
       <tr>
         <td valign="top" style="text-align:center;">
-        <p style="max-width:100%;"><b>360 Video Playback and Virtual Reality (VR)</b></p>
+        <p style="max-width:100%;"><b>180, 360 Video Playback and Virtual Reality (VR)</b></p>
          </td>
      <td>
        <ul>
+      <li>180, 360 stereo, mono video streaming</li>
        <li>Touch input which includes movement, and camera rotation</li>
        <li>Gyroscope input to move the camera</li>
        <li>Mouse input to move the camera</li>
