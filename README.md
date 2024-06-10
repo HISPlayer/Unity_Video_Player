@@ -11,7 +11,7 @@ We include the support of **[DRM content protection](https://hisplayer.com/conta
 In this repository you can explore the main list of features offered by HlSPlayer's plugin, as well as the variety of platforms it supports. If you're missing any feature or are interested in seeing a demo of our latest player library, simply visit our [website](https://www.hisplayer.com/demo-unity-player-sdk-github/) and contact us.
 
 
-Supported Unity versions : 2020.X, 2021.X, 2022.X, 2023
+**Supported Unity versions:** 2020.X, 2021.X, 2022.X, 2023
 <br>
 
 ##  [NEW!](https://hisplayer.github.io/UnityVideoUpload/#/README)
@@ -98,6 +98,7 @@ This is a list of the most important features supported by the plugin:
        <li>Decoded Frame Buffer Retrieval</li>
        <li>Audio playback back to Unity AudioSource (2D & 3D spatial audio sound effect)</li>
        <li>Mono, Stereo, 3D Audio ambisonics</li>
+       <li>Caching, Cache Streamed Video</li>
        </ul>
      </td>
      </tr>
