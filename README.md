@@ -15,7 +15,7 @@ In this repository you can explore the main list of features offered by HlSPlaye
 <br>
 
 ##  [NEW!](https://hisplayer.github.io/UnityVideoUpload/#/README)
-> **[HISPlayer Video Upload / Hosting](https://hisplayer.github.io/UnityVideoUpload/#/README)** is a new feature of our **Unity Video Player SDK**. It allows you to upload local video files to a server and transcode them into HLS and DASH streaming URLs directly from our Unity SDK. Need to convert your videos into HLS and DASH streams for multi-platform delivery at scale? **[Start your FREE trial here!](https://dashboard.hisplayer.com/)**
+> **[HISPlayer Video Upload / Hosting](https://hisplayer.github.io/UnityVideoUpload/#/README)** is a new feature of our **Unity Video Player SDK**. It allows you to upload local video files to a server and transcode them into HLS and DASH streaming URLs directly from our Unity SDK. Need to convert your videos into HLS and DASH streams for multi-platform delivery at scale? **[Start your FREE trial here!](https://dashboard.hisplayer.com/signup)**
 > 
 > We can help you with the full **end-to-end** delivery and playback.
 <br>
