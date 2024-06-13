@@ -14,7 +14,7 @@ In this repository you can explore the main list of features offered by HlSPlaye
 **Supported Unity versions:** 2020.X, 2021.X, 2022.X, 2023
 <br>
 
-##  [NEW!](https://hisplayer.github.io/UnityVideoUpload/#/README)
+##  NEW!
 > **[HISPlayer Video Upload / Hosting](https://hisplayer.github.io/UnityVideoUpload/#/README)** is a new feature of our **Unity Video Player SDK**. It allows you to upload local video files to our server and transcode them into HLS and DASH URLs directly from our Unity SDK. You will be able to play those streams directly from HISPlayer SDK after that. Need to convert your videos into HLS and DASH streams for multi-platform delivery at scale? **[Start your FREE trial here!](https://dashboard.hisplayer.com/signup)**
 >
 > After signing up for your **Video Upload FREE trial**, please refer to the following tutorials:
