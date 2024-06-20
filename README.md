@@ -162,9 +162,7 @@ This is a list of the most important features supported by the plugin:
 ## Contact
 
 > [!NOTE]
-> Our **[Unity Video Player](https://hisplayer.com/unity-player-sdk/)** is also available in a premium version for advanced video services!
-> <br>
-> ***If you need DRM content protection, fast channel switching, video caching, video thumbnail generation, ad insertion (SSAI, SGAI, AWS MediaTailor & CSAI), custom development, and expedited customer support, please [contact us here](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/) to get the HISPlayer SDK Premium Version.***
+> ***If you need DRM content protection, fast channel switching, video caching, video thumbnail generation, ad insertion (SSAI, SGAI, AWS MediaTailor & CSAI), custom development, and expedited customer support, [please contact us here](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/) to get the HISPlayer Unity SDK Premium Version.***
 
 
 Contact email: contact@hisplayer.com
