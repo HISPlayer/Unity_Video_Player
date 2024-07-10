@@ -101,7 +101,6 @@ This is a list of the most important features supported by the plugin:
        <li>Spread Video Across Multiple Objects</li>
        <li>Transparency and Chroma Support</li>
        <li>Metadata: ID3 tags</li>
-       <li>Audio PCM data</li>
        <li>Decoded Frame Buffer Retrieval</li>
        <li>Mono, Stereo, 3D Audio ambisonics</li>
        <li>Video Caching (Cache Streamed Video)</li>
