@@ -89,8 +89,12 @@ This is a list of the most important features supported by the plugin:
          </td>
      <td>
        <ul>
+       <li>HLS & DASH Streaming</li>
        <li>Offline Streaming Playback for HLS & DASH</li>
+       <li>HLS Playback with AES-128</li>
        <li>Offline HLS Playback with AES-128</li>
+       <li>Low Latency HLS (LL HLS)</li>
+       <li>Low Latency DASH (LL DASH)</li>  
        <li>Widevine DRM Content Protection</li>
        <li>MultiStream</li>
        <li>MultiView (Display Multiple Synchronized Streams)</li>
