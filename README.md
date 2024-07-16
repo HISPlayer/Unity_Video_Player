@@ -21,7 +21,7 @@ In this repository you can explore the main list of features offered by HlSPlaye
 > 
 >The following videos show how it works:
 > * **[How to upload videos from the Unity Editor with HISPlayer](https://www.youtube.com/watch?v=POzM5U31tzc)**
-> * **[How to upload video from HISPlayer Dashboard](https://www.youtube.com/watch?v=awfN0zz-8zQ)**
+> * **[How to upload video from HISPlayer Video Platform](https://www.youtube.com/watch?v=awfN0zz-8zQ)**
 >
 
 <br>
