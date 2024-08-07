@@ -60,7 +60,7 @@ This is a list of the most important features supported by the plugin:
        <li>mp4 download and playback</li>
        <li>Live/VOD HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
        <li>AES-128 HLS</li>
-       <li>DRM Protected Content (Digital Rights Management)</li>
+       <li>DRM Content Protection (Digital Rights Management)</li>
        <li>DRM Token at Unity</li>
        <li>Up to 8K (UHD) Resolution</li>
        <li>Rendering Videos on 2D & 3D Objects</li>
@@ -95,7 +95,7 @@ This is a list of the most important features supported by the plugin:
        <li>Offline HLS Playback with AES-128</li>
        <li>Low Latency HLS (LL HLS)</li>
        <li>Low Latency DASH (LL DASH)</li>  
-       <li>Widevine DRM Content Protection</li>
+       <li>Widevine DRM Security Level 1 (L1)</li>
        <li>MultiStream</li>
        <li>MultiView (Display Multiple Synchronized Streams)</li>
        <li>Client-Side Ad Insertion (WebGL)</li>
