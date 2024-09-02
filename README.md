@@ -58,7 +58,7 @@ This is a list of the most important features supported by the plugin:
      <td>
        <ul>
        <li>mp4 download and playback</li>
-       <li>Live and Video on Demand (VOD) 
+       <li>Live and video on demand (VOD) 
        <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
        <li>AES-128 HLS</li>
        <li>DRM Content Protection (Digital Rights Management)</li>
