@@ -102,6 +102,7 @@ This is a list of the most important features supported by the plugin:
        <li>MultiView (Display Multiple Synchronized Streams)</li>
        <li>Client-Side Ad Insertion (WebGL)</li>
        <li>Server-Side Ad Insertion (WebGL)</li>
+       <li>Server-Guided Ad Insertion / SGAI (WebGL)
        <li>WebVTT Subtitles & CEA-608/708 Closed Captions</li>
        <li>Multiple Audio & Subtitle Track Selection</li>
        <li>Spread Video Across Multiple Objects</li>
@@ -112,6 +113,7 @@ This is a list of the most important features supported by the plugin:
        <li>Video Caching (Cache Streamed Video)</li>
        <li>Fast Channel Switching</li>
        <li>Video Thumbnails</li>
+       <li>Vulkan Rendering / Graphics API on Android</li>
        </ul>
      </td>
      </tr>
