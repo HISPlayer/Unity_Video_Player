@@ -114,7 +114,7 @@ This is a list of the most important features supported by the plugin:
        <li>Fast Channel Switching</li>
        <li>Video Thumbnails</li>
        <li>Vulkan Rendering / Graphics API on Android</li>
-       <li>Vulkan 8K Video Rendering on Meta Quest</li>
+       <li>Vulkan 8K Video Performance on Meta Quest</li>
        </ul>
      </td>
      </tr>
