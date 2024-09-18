@@ -174,7 +174,7 @@ This is a list of the most important features supported by the plugin:
 ## Contact
 
 > [!NOTE]
-> ***If you need DRM content protection, fast channel switching, video caching, video thumbnails generation, ad insertion (SSAI, SGAI, AWS MediaTailor & CSAI), custom development, and expedited customer support, [please contact us here](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/) to get the HISPlayer Unity SDK Premium Version.***
+> ***If you need DRM content protection, Vulkan 8K video performance, fast channel switching, video caching, video thumbnails generation, ad insertion (SSAI, SGAI, AWS MediaTailor & CSAI), custom development, and expedited customer support, [please contact us here](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/) to get the HISPlayer Unity SDK Premium Version.***
 
 
 Contact email: contact@hisplayer.com
