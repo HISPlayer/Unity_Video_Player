@@ -14,7 +14,7 @@ assignees: ''
  - HISPlayer Unity Player SDK version:
  - Unity version: 
  - Package URL (if purchased from the store): 
- - Operating system (OS): [e.g. iOS8.1]
+ - Operating system (OS):
 
 
 **To Reproduce**
