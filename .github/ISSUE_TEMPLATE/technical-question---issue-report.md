@@ -11,8 +11,8 @@ assignees: ''
 
 
 **Your system and development environment:**
- - Unity version: 
  - HISPlayer Unity Player SDK version:
+ - Unity version: 
  - Package URL (if purchased from the store): 
  - Operating system (OS): [e.g. iOS8.1]
 
