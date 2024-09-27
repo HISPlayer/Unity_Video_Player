@@ -1,7 +1,7 @@
 ---
 name: Technical question / Issue report
 about: 'Ask for technical support or report an issue '
-title: Technical question / Issue report
+title: ''
 labels: ''
 assignees: ''
 
