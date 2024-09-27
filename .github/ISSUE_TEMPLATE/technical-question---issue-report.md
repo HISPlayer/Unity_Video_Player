@@ -8,9 +8,9 @@ assignees: ''
 ---
 
 **Describe the issue**
-A clear description of the issue.
 
-**Your Configuration (please provide the following details)**
+
+**Your system and development environment:**
  - Unity version: 
  - HISPlayer Unity Player SDK version:
  - Package URL (if purchased from the store): 
@@ -19,9 +19,7 @@ A clear description of the issue.
 
 **To Reproduce**
 Steps to reproduce the issue:
-1. 
-2. 
-3.
+1.
 
 
 **Screenshots**
