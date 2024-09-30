@@ -71,6 +71,7 @@ This is a list of the most important features supported by the plugin:
        <li>8K (UHD) Resolution</li>
        <li>Broadcast in 4K resolution</li>
        <li>Rendering Videos on 2D & 3D Objects</li>
+       <li>Unity Render Streaming</li>
        </ul>
      </td>
         <tr>
