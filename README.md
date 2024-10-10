@@ -5,7 +5,7 @@
 
 <p align="center"><a href="https://www.hisplayer.com/unity-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Bring video streaming into Unity, make your game alive.gif"  width="100%" height="100%"></a>
   
-HISPlayer is the most advanced video streaming player for Unity, supporting local, VOD and live content. It enables premium DASH and HLS video streaming inside your games and metaverses on Android, iOS, Windows, macOS, VR/AR Headsets (Meta Quest, XREAL, Pico, HTC Vive), [Apple Vision Pro](https://hisplayer.com/demo-unity-player-sdk-github/?utm_source=github&utm_medium=referral&utm_campaign=unitygithub&utm_content=20200211--unitydemocontact), Xbox, and WebGL. 
+HISPlayer is the most advanced video streaming player for Unity, supporting local, VOD and live content. It enables premium DASH and HLS video streaming inside your games and metaverses on Android, iOS, Windows, macOS, VR/AR Headsets (Meta Quest, XREAL, Pico, HTC Vive), [Apple Vision Pro](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/), Xbox, and WebGL. 
 We include the support of **Widevine [DRM content protection](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/)** for premium contents and advanced features such as multistream, ad insertion or automatic bitrate adaptation to secure the best video quality.
 
 HISPlayer Unity Video Player SDK also supports **Unity Render Streaming**. It allows to add Live and VOD Video Streaming into Unity Render Streaming experiences. Enhance your real-time 3D content and games with realtime video/audio publishing.
