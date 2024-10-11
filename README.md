@@ -103,7 +103,7 @@ This is a list of the most important features supported by the plugin:
        <li>Offline HLS Playback with AES-128</li>
        <li>Low Latency HLS (LL HLS)</li>
        <li>Low Latency DASH (LL DASH)</li>  
-       <li>Widevine DRM Security Level 1 (L1)</li>
+       <li>Widevine DRM Security Level 1 (L1) on Meta Quest devices</li>
        <li>MultiStream</li>
        <li>MultiView (Display Multiple Synchronized Streams)</li>
        <li>Client-Side Ad Insertion (WebGL)</li>
@@ -116,7 +116,6 @@ This is a list of the most important features supported by the plugin:
        <li>Metadata: ID3 tags</li>
        <li>Decoded Frame Buffer Retrieval</li>
        <li>Mono, Stereo, 3D Audio ambisonics</li>
-       <li>Video Caching (Cache Streamed Video)</li>
        <li>Fast Channel Switching</li>
        <li>Video Thumbnails</li>
        <li>Vulkan Rendering / Graphics API on Android</li>
@@ -130,7 +129,7 @@ This is a list of the most important features supported by the plugin:
          </td>
      <td>
        <ul>
-      <li>180, 360 stereo, mono video streaming</li>
+      <li>180, 360 3D stereo, 2D mono video streaming</li>
        <li>Touch input which includes movement, and camera rotation</li>
        <li>Gyroscope input to move the camera</li>
        <li>Mouse input to move the camera</li>
@@ -157,7 +156,7 @@ This is a list of the most important features supported by the plugin:
 | UWP| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |macOS|Metal|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
 |[Apple Vision Pro](https://hisplayer.com/demo-unity-player-sdk-github/?utm_source=github&utm_medium=referral&utm_campaign=unitygithub&utm_content=20200211--unitydemocontact)| Metal|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
-|HTML 5|WebGL 1.0 / WebGL 2.0|:heavy_check_mark:|:heavy_check_mark:||
+|WebGL|WebGL 1.0 / WebGL 2.0|:heavy_check_mark:|:heavy_check_mark:||
 * visionOS - the operating system of the Apple Vision Pro, Apple’s latest spatial computing device
 
 
