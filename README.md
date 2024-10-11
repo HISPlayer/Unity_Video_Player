@@ -168,13 +168,6 @@ This is a list of the most important features supported by the plugin:
 <br>
 
 
-
-
-
-<br>
-
-## [TRY FREE DEMO HERE](https://github.com/HISPlayer/Unity_Video_Player/releases/tag/v3.4.1)
-
 <br>
 
 ## Contact
