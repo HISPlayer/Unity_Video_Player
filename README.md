@@ -150,7 +150,7 @@ This is a list of the most important features supported by the plugin:
 | Platform | Supported Graphics APIs | HLS | DASH | Local | Inside App (Streaming Assets) | [DRM content protection](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/) |
 | :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
 | Meta Quest  | OpenGLES2, OpenGLES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Widevine L1 DRM](https://hisplayer.com/unity-video-player-with-widevine-level-1-drm/) |
-| Android  | OpenGLES2, OpenGLES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Widevine L3 DRM |
+| Android  | OpenGLES2, OpenGLES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Widevine L3 DRM](https://hisplayer.com/unity-video-player-digital-rights-management-drm/) |
 | iOS | Metal | :heavy_check_mark: | | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | UWP| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
