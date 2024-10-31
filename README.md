@@ -156,7 +156,7 @@ This is a list of the most important features supported by the plugin:
 | UWP| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |macOS|Metal|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
 |[Apple Vision Pro](https://hisplayer.com/demo-unity-player-sdk-github/?utm_source=github&utm_medium=referral&utm_campaign=unitygithub&utm_content=20200211--unitydemocontact)| Metal|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
-|WebGL|WebGL 1.0 / WebGL 2.0|:heavy_check_mark:|:heavy_check_mark:||
+|[WebGL](https://hisplayer.com/unity-webgl-video-player/)|WebGL 1.0 / WebGL 2.0|:heavy_check_mark:|:heavy_check_mark:||
 * visionOS - the operating system of the Apple Vision Pro, Apple’s latest spatial computing device
 
 
