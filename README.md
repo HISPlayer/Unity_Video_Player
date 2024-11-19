@@ -5,10 +5,10 @@
 
 <p align="center"><a href="https://www.hisplayer.com/unity-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Bring video streaming into Unity, make your game alive.gif"  width="100%" height="100%"></a>
   
-HISPlayer is the most advanced video streaming player for Unity, supporting local, VOD and live content. It enables premium DASH and HLS video streaming inside your games and metaverses on Android, iOS, Windows, macOS, VR/AR Headsets (Meta Quest, XREAL, Pico, HTC Vive), [Apple Vision Pro](https://hisplayer.com/unity-video-player-visionos/), Xbox, and WebGL. 
+HISPlayer is the most advanced Unity Video Player, supporting local, VOD and live content. It enables premium DASH and HLS video streaming inside your games, XR apps and metaverses on Android, iOS, Windows, macOS, VR/AR Headsets (Meta Quest, XREAL, Pico, HTC Vive), [Apple Vision Pro](https://hisplayer.com/unity-video-player-visionos/), Xbox, and WebGL. 
 We include the support of **[DRM content protection](https://hisplayer.com/unity-video-player-digital-rights-management-drm/)** for premium contents and advanced features such as multistream, ad insertion or automatic bitrate adaptation to secure the best video quality.
 
-HISPlayer Unity Video Player SDK also supports **Unity Render Streaming**. It allows to add Live and VOD Video Streaming into Unity Render Streaming experiences. Enhance your real-time 3D content and games with video/audio publishing.
+HISPlayer Unity Video Player also supports **Unity Render Streaming**. It allows to add Live and VOD Video Streaming into Unity Render Streaming experiences. Enhance your real-time 3D content and games with video/audio publishing.
 
 In this repository you can explore the main list of features offered by HlSPlayer's plugin, as well as the variety of platforms it supports. If you're missing any feature or are interested in seeing a demo of our latest player library, simply visit our [website](https://www.hisplayer.com/demo-unity-player-sdk-github/) and contact us.
 
@@ -20,9 +20,9 @@ In this repository you can explore the main list of features offered by HlSPlaye
 ## 📣 NEW!: ✨
 > **Upload and Host your videos with HISPlayer**
 > 
-> Need to convert your videos in your computer into HLS and DASH streams for multi-platform delivery at scale? HISPlayer includes now the option to upload and host your videos that can be played by HISPlayer Unity SDK. **[Start your FREE trial here!](https://hisplayer.com/unity-asset-store-saas-registration/)**
+> Need to convert your videos in your computer into HLS and DASH streams for multi-platform delivery? HISPlayer includes now the option to upload and host your videos that can be played by HISPlayer's Unity Video Player. **[Start your FREE trial here!](https://hisplayer.com/unity-asset-store-saas-registration/)**
 >
->Moreover, there is a version of HISPlayer Unity SDK that allows you to upload your videos directly from the **Unity Editor**, **[contact our team to get more info about it](https://hisplayer.com/contact-unity3d-video-upload-hosting/).**
+>Moreover, there is a version of HISPlayer Unity Video Player SDK that allows you to upload your videos directly from the **Unity Editor**, **[contact our team to get more info about it](https://hisplayer.com/contact-unity3d-video-upload-hosting/).**
 > 
 >The following videos show how it works:
 > * **[How to upload videos from the Unity Editor with HISPlayer](https://www.youtube.com/watch?v=POzM5U31tzc)**
@@ -33,7 +33,7 @@ In this repository you can explore the main list of features offered by HlSPlaye
 
 ## Gaming and Metaverse Example 
 
-Our Unity video streaming plugin allows you to create new exciting scenes inside your Unity projects, such as video ads, the possibility to enjoy premium video content or the option to include dynamic video content related to your games that might be changed from day to day...
+Our Unity video player SDK allows you to create new exciting scenes inside your Unity projects, such as video ads, the possibility to enjoy premium video content or the option to include dynamic video content related to your games that might be changed from day to day...
 <p align="center"><a href="https://www.hisplayer.com/unity-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/mutliview.gif"  width="80%" height="80%"></a>
 <p align="center">Include high quality Multiple Streams into your games and metaverses</p>
 
@@ -50,7 +50,7 @@ Our Unity video streaming plugin allows you to create new exciting scenes inside
 
 ## Features
 
-The HlSPlayer video streaming player for Unity includes a growing list of features on top of the most optimized software to secure the best video quality at any device. Our team are experts in media player technology, ready to face any technology challenge. If you need specific or advanced functionalities, please don't hesitate to contact us at our [website](https://www.hisplayer.com/demo-unity-player-sdk-github/). 
+The HlSPlayer Unity Video Player includes a growing list of features on top of the most optimized software to secure the best video quality at any device. Our team are experts in media player technology, ready to face any technology challenge. If you need specific or advanced functionalities, please don't hesitate to contact us at our [website](https://www.hisplayer.com/demo-unity-player-sdk-github/). 
 
 This is a list of the most important features supported by the plugin:
 
