@@ -13,7 +13,7 @@ HISPlayer Unity Video Player also supports **Unity Render Streaming**. It allows
 In this repository you can explore the main list of features offered by HlSPlayer's plugin, as well as the variety of platforms it supports. If you're missing any feature or are interested in seeing a demo of our latest player library, simply visit our [website](https://www.hisplayer.com/demo-unity-player-sdk-github/) and contact us.
 
 
-**Supported Unity versions:** 2020.X, 2021.X, 2022.X, 2023
+**Supported Unity versions:** 2020.X, 2021.X, 2022.X, 2023.X, Unity 6
 
 <br>
 
