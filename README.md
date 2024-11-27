@@ -120,7 +120,7 @@ This is a list of the most important features supported by the plugin:
        <li>Video Thumbnails</li>
        <li>Vulkan Rendering / Graphics API on Android</li>
        <li>Vulkan 8K Video Performance on Meta Quest</li>
-       <li>The Video Platform to Host your videos</li>
+       <li>Video Platform to Host your videos</li>
        </ul>
      </td>
      </tr>
@@ -170,10 +170,10 @@ This is a list of the most important features supported by the plugin:
 
 <br>
 
-## Contact
+## Advanced Features
 
 > [!NOTE]
-> ***If you need DRM content protection, Vulkan 8K video performance, Apple Vision Pro, fast channel switching, video thumbnails generation, ad insertion (SSAI, SGAI, AWS MediaTailor & CSAI), custom development, and expedited customer support, [please contact us here](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/) to get the HISPlayer Unity SDK Premium Version.***
+> *If you need Advanced features such as DRM content protection, Vulkan 8K video performance, Unity 6, Apple Vision Pro, fast channel switching, video thumbnails generation, ad insertion (SSAI, SGAI, AWS MediaTailor & CSAI), custom development, and expedited customer support, [please contact us here](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/) to get the HISPlayer Unity SDK Premium Version.*
 
 
 Contact email: contact@hisplayer.com
