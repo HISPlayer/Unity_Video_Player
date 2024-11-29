@@ -10,7 +10,7 @@ HISPlayer is the most advanced Unity Video Player, supporting local, VOD and liv
 
 HISPlayer Unity Video Player also supports **Unity Render Streaming**. It allows to add Live and VOD Video Streaming into Unity Render Streaming experiences. Enhance your real-time 3D content and games with video/audio integration.
 
-In this repository you can explore the main list of features offered by HlSPlayer's plugin, as well as the variety of platforms it supports. If you're missing any feature or are interested in seeing a demo of our latest player library, simply visit our [website](https://www.hisplayer.com/demo-unity-player-sdk-github/) and contact us.
+In this repository you can explore the main list of features offered by HlSPlayer's Unity plugin, as well as the variety of platforms it supports. If you're missing any feature or are interested in seeing a demo of our latest player library, simply visit our [website](https://www.hisplayer.com/demo-unity-player-sdk-github/) and contact us.
 
 
 **Supported Unity versions:** 2020.X, 2021.X, 2022.X, 2023.X, Unity 6
