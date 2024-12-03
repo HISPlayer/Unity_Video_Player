@@ -5,7 +5,7 @@
 
 <p align="center"><a href="https://www.hisplayer.com/unity-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Bring video streaming into Unity, make your game alive.gif"  width="100%" height="100%"></a>
   
-HISPlayer is the most advanced Unity Video Player, supporting local, VOD and live content. It enables premium DASH and HLS video streaming inside your games, XR apps, 3D websites and metaverses on Android, iOS, Windows, UWP, macOS, VR/AR Headsets (Meta Quest, XREAL, Lenovo, HTC Vive), [Apple Vision Pro](https://hisplayer.com/unity-video-player-visionos/), and WebGL. We support high-quality 180-degree, 360-degree, 3D stereoscopic videos up to 8K resolution, [DRM content protection](https://hisplayer.com/unity-video-player-digital-rights-management-drm/) for premium content and advanced features such as multi-stream, ad insertion, fast channel switching, or automatic bitrate adaptation (ABR) to secure the best video quality.
+HISPlayer is the most advanced Unity Video Player, supporting local, VOD and live content. It enables premium DASH and HLS video streaming inside your games, XR apps, 3D websites and metaverses on Android, iOS, Windows, UWP, macOS, WebGL, and VR/AR Headsets (Meta Quest, XREAL, Lenovo, HTC Vive, or [Apple Vision Pro](https://hisplayer.com/unity-video-player-visionos/)). Our Unity Video Player is hardware accelerated to provide the top quality video streaming performance on every device, supporting 180-degree, 360-degree, 3D stereoscopic videos up to 8K resolution. HISPlayer Unity Player SDK includes support of [DRM content protection](https://hisplayer.com/unity-video-player-digital-rights-management-drm/) for premium content and advanced features such as multi-stream, ad insertion, fast channel switching, or automatic bitrate adaptation (ABR) to secure the best video quality.
 
 
 HISPlayer Unity Video Player also supports **Unity Render Streaming**. It allows to add Live and VOD Video Streaming into Unity Render Streaming experiences. Enhance your real-time 3D content and games with video/audio integration.
@@ -65,11 +65,12 @@ This is a list of the most important features supported by the plugin:
        <li>mp4 download and playback</li>
        <li>Live and video on demand (VOD) 
        <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
-       <li>AES-128 HLS</li>
+       <li>AES-128 HLS decryption</li>
        <li>DRM Content Protection (Digital Rights Management)</li>
        <li>DRM Token at Unity</li>
        <li>8K (UHD) Resolution</li>
        <li>Broadcast in 4K resolution</li>
+       <li>180º, 360º 3D stereo videos<li>
        <li>Rendering Videos on 2D & 3D Objects</li>
        <li>Unity Render Streaming</li>
        </ul>
@@ -130,7 +131,7 @@ This is a list of the most important features supported by the plugin:
          </td>
      <td>
        <ul>
-      <li>180, 360 3D stereo, 2D mono video streaming</li>
+      <li>VR, 180, 360 3D stereo, 2D mono video streaming</li>
        <li>Touch input which includes movement, and camera rotation</li>
        <li>Gyroscope input to move the camera</li>
        <li>Mouse input to move the camera</li>
