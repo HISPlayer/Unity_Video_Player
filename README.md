@@ -68,9 +68,9 @@ This is a list of the most important features supported by the plugin:
        <li>AES-128 HLS decryption</li>
        <li>DRM Content Protection (Digital Rights Management)</li>
        <li>DRM Token at Unity</li>
-       <li>8K (UHD) Resolution</li>
+       <li>4K, 8K (UHD) Resolution</li>
        <li>Broadcast in 4K resolution</li>
-       <li>180º, 360º 3D stereo videos<li>
+       <li>180º, 360º 3D stereo videos</li>
        <li>Rendering Videos on 2D & 3D Objects</li>
        <li>Unity Render Streaming</li>
        </ul>
