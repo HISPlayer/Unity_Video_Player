@@ -173,7 +173,7 @@ This is a list of the most important features supported by the plugin:
 ## Advanced Features
 
 > [!NOTE]
-> *If you need advanced features such as DRM content protection, Vulkan 8K video performance, Unity 6, Apple Vision Pro, fast channel switching, video thumbnails generation, ad insertion (SSAI, SGAI, AWS MediaTailor & CSAI), custom development, and expedited customer support, [please contact us here](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/) to get the HISPlayer Unity SDK Premium Version.*
+> *If you need advanced features such as DRM content protection, fast channel switching, ad insertion (SSAI, SGAI, AWS MediaTailor & CSAI), custom development, and expedited customer support, [please contact us here](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/) to get the HISPlayer Unity SDK Premium Version.*
 
 
 Contact email: contact@hisplayer.com
