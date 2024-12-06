@@ -136,7 +136,7 @@ This is a list of the most important features supported by the plugin:
        <li>Mouse input to move the camera</li>
        <li>Automatic Ground Leveler to stabilize the video</li>
        <li>Custom shaders to map 2D, 3D Over/Under and 3D Left/Right 360 videos</li>
-       <li>Compatible with VR libraries for Unity (Google Cardboard, Vive & Oculus)</li>
+       <li>Compatible with VR libraries for Unity (Meta Quest & HTC Vive)</li>
        </ul>
      </td>
      </tr>
