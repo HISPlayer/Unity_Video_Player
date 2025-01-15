@@ -120,7 +120,8 @@ This is a list of the most important features supported by the plugin:
        <li>Video Thumbnails</li>
        <li>Vulkan Rendering / Graphics API on Android</li>
        <li>Vulkan 8K Video Performance on Meta Quest</li>
-       <li>Video Platform to Host your videos</li>
+       <li>Video Platform to Host your videos online</li>
+       <li>Apple MV-HEVC on Meta Quest</li>
        </ul>
      </td>
      </tr>
