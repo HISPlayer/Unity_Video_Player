@@ -17,6 +17,10 @@ In this repository you can explore the main list of features offered by HlSPlaye
 
 <br>
 
+## [The Full Documentation](https://hisplayer.github.io/)
+
+<br>
+
 ## 📣 NEW!: ✨
 > **Upload and Host your videos with HISPlayer**
 > 
@@ -165,7 +169,6 @@ This is a list of the most important features supported by the plugin:
 
 <br>
 
-## [The Full Documentation](https://hisplayer.github.io/)
 
 <br>
 
