@@ -29,8 +29,8 @@ In this repository you can explore the main list of features offered by HlSPlaye
 >Moreover, HISPlayer Video Hosting Platform includes free Unity Video Player that allows you to host videos directly from the **Unity Editor**, **[contact us to get more info about it](https://hisplayer.com/contact-unity3d-video-upload-hosting/).**
 > 
 >Tutorial videos:
-> * **[Upload & host videos from the Unity Editor](https://www.youtube.com/watch?v=POzM5U31tzc)**
-> * **[Upload & host videos from HISPlayer Video Platform](https://www.youtube.com/watch?v=awfN0zz-8zQ)**
+> * **[Host videos from the Unity Editor](https://www.youtube.com/watch?v=ROq3dN4QoLE)**
+> * **[Host videos from HISPlayer Dashboard](https://www.youtube.com/watch?v=awfN0zz-8zQ)**
 >
 
 <br>
