@@ -23,7 +23,7 @@ In this repository you can explore the main list of features offered by HlSPlaye
 
 ## :rocket: Upload and Host your videos with HISPlayer: :rocket:
  
-> HISPlayer includes now the option to upload and host your videos that can be streamed using our Unity Player SDK into Unity. Need to convert your video files on your computer into HLS and DASH streams for multi-platform delivery? **[Start your FREE trial here!](https://hisplayer.com/unity-asset-store-saas-registration/)**
+> HISPlayer now includes the option to upload and host video files, converting them into HLS and DASH streaming URLs. You can stream all these videos using our Unity Player SDK into the Unity app. **[Start your FREE trial here!](https://hisplayer.com/unity-asset-store-saas-registration/)**
 >
 > If you use the HISPlayer Video Hosting Platform, you can get our Unity Video Player for FREE. It allows you to host videos directly from the **Unity Editor**, **[contact us to get more info about it](https://hisplayer.com/contact-unity3d-video-upload-hosting/).**
 > 
@@ -118,7 +118,7 @@ This is a list of the most important features supported by the plugin:
        <li>Transparency and Chroma Support</li>
        <li>Metadata: ID3 tags</li>
        <li>Decoded Frame Buffer Retrieval</li>
-       <li>Mono, Stereo, 3D Audio ambisonics</li>
+       <li>3D spatial sound</li>
        <li>Fast Channel Switching</li>
        <li>Video Thumbnails</li>
        <li>Vulkan Rendering / Graphics API on Android</li>
