@@ -30,6 +30,7 @@ In this repository you can explore the main list of features offered by HlSPlaye
 >Tutorial:
 > * **[Host videos from the Unity Editor](https://www.youtube.com/watch?v=vSI7U6TjHqI)**
 >
+> We can help you with the full end-to-end video delivery and playback
 
 <br>
 
