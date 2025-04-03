@@ -121,7 +121,7 @@ This is a list of the most important features supported by the plugin:
        <li>Spatial Audio on Meta Quest</li>
        <li>Fast Channel Switching</li>
        <li>Video Thumbnails</li>
-       <li>Vulkan Rendering / Graphics API on Android</li>
+       <li>Android Vulkan Rendering / Graphics API</li>
        <li>Vulkan 360, 8K Video Performance with the highest frame rate on Meta Quest</li>
        <li>Online Video Hosting</li>
        <li>Apple MV-HEVC on Meta Quest</li>
