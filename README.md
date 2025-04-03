@@ -23,12 +23,12 @@ In this repository you can explore the main list of features offered by HlSPlaye
 
 ## :rocket: Upload and Host your videos with HISPlayer: :rocket:
  
-> HISPlayer now includes the option to upload and host video files, converting them into HLS and DASH streaming URLs. You can stream all these videos using our Unity Player SDK into Unity. **[Start your FREE trial here!](https://hisplayer.com/unity-asset-store-saas-registration/)**
+> HISPlayer allows you to upload and host video files, converting them into HLS and DASH streaming URLs. You can stream all these videos using our Unity Player SDK into Unity. **[Start your FREE trial here!](https://hisplayer.com/unity-asset-store-saas-registration/)**
 >
 > If you use the HISPlayer Video Hosting Platform, you can get our Unity Video Player for FREE. It allows you to host videos directly from the **Unity Editor**, **[contact us to get more info](https://hisplayer.com/contact-unity3d-video-upload-hosting/).**
 > 
 >Tutorial videos:
-> * **[Host videos from the Unity Editor](https://www.youtube.com/watch?v=ROq3dN4QoLE)**
+> * **[Host videos from the Unity Editor](https://www.youtube.com/watch?v=vSI7U6TjHqI)**
 > * **[Host videos from HISPlayer Dashboard](https://www.youtube.com/watch?v=awfN0zz-8zQ)**
 >
 
@@ -109,8 +109,8 @@ This is a list of the most important features supported by the plugin:
        <li>Widevine DRM Security Level 1 (L1) on Meta Quest devices</li>
        <li>MultiStream</li>
        <li>MultiView (Display Multiple Synchronized Streams)</li>
-       <li>Client-Side Ad Insertion (WebGL)</li>
-       <li>Server-Side Ad Insertion (WebGL)</li>
+       <li>Client-Side Ad Insertion / CSAI (WebGL)</li>
+       <li>Server-Side Ad Insertion / SSAI (WebGL)</li>
        <li>Server-Guided Ad Insertion / SGAI (WebGL)
        <li>WebVTT Subtitles & CEA-608/708 Closed Captions</li>
        <li>Multiple Audio & Subtitle Track Selection</li>
@@ -118,12 +118,12 @@ This is a list of the most important features supported by the plugin:
        <li>Transparency and Chroma Support</li>
        <li>Metadata: ID3 tags</li>
        <li>Decoded Frame Buffer Retrieval</li>
-       <li>3D spatial sound</li>
+       <li>Spatial Audio on Meta Quest</li>
        <li>Fast Channel Switching</li>
        <li>Video Thumbnails</li>
        <li>Vulkan Rendering / Graphics API on Android</li>
-       <li>Vulkan 8K Video Performance on Meta Quest</li>
-       <li>Video Hosting Platform</li>
+       <li>Vulkan 360, 8K Video Performance with the highest frame rate on Meta Quest</li>
+       <li>Online Video Hosting</li>
        <li>Apple MV-HEVC on Meta Quest</li>
        </ul>
      </td>
@@ -161,7 +161,7 @@ This is a list of the most important features supported by the plugin:
 | Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | UWP| DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |macOS|Metal|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
-|[Apple Vision Pro](https://hisplayer.com/demo-unity-player-sdk-github/?utm_source=github&utm_medium=referral&utm_campaign=unitygithub&utm_content=20200211--unitydemocontact)| Metal|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
+|[visionOS](https://hisplayer.com/demo-unity-player-sdk-github/?utm_source=github&utm_medium=referral&utm_campaign=unitygithub&utm_content=20200211--unitydemocontact)| Metal|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
 |[WebGL](https://hisplayer.com/unity-webgl-video-player/)|WebGL 1.0 / WebGL 2.0|:heavy_check_mark:|:heavy_check_mark:||
 * visionOS - the operating system of the Apple Vision Pro, Apple’s latest spatial computing device
 
