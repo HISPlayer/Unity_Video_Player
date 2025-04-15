@@ -1,5 +1,5 @@
 ---
-name: Technical question / Issue report
+name: Issue Report / Technical Question
 about: 'Ask for technical support or report an issue '
 title: ''
 labels: ''
@@ -11,7 +11,7 @@ assignees: ''
 
 
 **Your system and development environment:**
- - HISPlayer Unity Player SDK version:
+ - HISPlayer Unity Video Player SDK version:
  - Unity version: 
  - Package URL (if purchased from the store): 
  - Operating system (OS):
