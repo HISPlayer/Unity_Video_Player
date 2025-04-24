@@ -25,7 +25,7 @@ In this repository you can explore the main list of features offered by HlSPlaye
  
 > HISPlayer allows you to upload and host video files, converting them into HLS and DASH streaming URLs. You can stream all these videos using our Unity Player SDK into Unity. **[Start your FREE trial here!](https://hisplayer.com/unity-asset-store-saas-registration/)**
 >
-> If you use the HISPlayer Video Hosting Platform, you can get our Unity Video Player for FREE. It allows you to host videos directly from the **Unity Editor**.
+> If you use the HISPlayer Video Hosting Platform, it includes our advanced Unity Video Player for FREE.
 > 
 >Tutorial:
 > * **[Host videos from the Unity Editor](https://www.youtube.com/watch?v=vSI7U6TjHqI)**
@@ -68,6 +68,7 @@ This is a list of the most important features supported by the plugin:
        <li>mp4 download and playback</li>
        <li>Live and video on demand (VOD) 
        <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
+       <li>WebRTC / WebRTS Live Streaming</li>
        <li>AES-128 HLS decryption</li>
        <li>DRM Content Protection (Digital Rights Management)</li>
        <li>DRM Token at Unity</li>
@@ -104,9 +105,10 @@ This is a list of the most important features supported by the plugin:
        <li>Offline Streaming Playback for HLS & DASH</li>
        <li>HLS Playback with AES-128</li>
        <li>Offline HLS Playback with AES-128</li>
+       <li>WebRTC real-time streaming</li>
        <li>Low Latency HLS (LL HLS)</li>
        <li>Low Latency DASH (LL DASH)</li>  
-       <li>Widevine DRM Security Level 1 (L1) on Meta Quest devices</li>
+       <li>Widevine Level 1 (L1) DRM on Meta Quest devices</li>
        <li>MultiStream</li>
        <li>MultiView (Display Multiple Synchronized Streams)</li>
        <li>Client-Side Ad Insertion / CSAI (WebGL)</li>
@@ -174,13 +176,14 @@ This is a list of the most important features supported by the plugin:
 
 <br>
 
-## Advanced Features
+## Premium Features
 
 > [!NOTE]
-> *If you need advanced features such as DRM content protection, fast channel switching, ad insertion (SSAI, SGAI, AWS MediaTailor & CSAI), custom development, and expedited customer support, [please contact us here](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/) to get the HISPlayer Unity SDK Premium Version.*
-
+> *If you need premium features such as DRM content protection, WebRTC, fast channel switching, ad insertion (SSAI, SGAI, AWS MediaTailor & CSAI), custom development, and expedited customer support, [please contact us here](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/) to get the HISPlayer Unity Player SDK Premium Version.*
 
 Contact email: contact@hisplayer.com
+
+#### [GET YOUR FREE DEMO](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/)
 
 <br> 
 </br>
