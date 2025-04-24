@@ -183,7 +183,7 @@ This is a list of the most important features supported by the plugin:
 
 Contact email: contact@hisplayer.com
 
-#### [GET YOUR FREE DEMO](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/)
+#### [GET YOUR FREE DEMO HERE](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/)
 
 <br> 
 </br>
