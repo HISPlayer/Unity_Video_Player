@@ -179,7 +179,7 @@ This is a list of the most important features supported by the plugin:
 ## Premium Features
 
 > [!NOTE]
-> *If you need premium features such as DRM content protection, WebRTC, fast channel switching, ad insertion (SSAI, SGAI, AWS MediaTailor & CSAI), custom development, and expedited customer support, [please contact us here](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/) to get the HISPlayer Unity Player SDK Premium Version.*
+> *If you need premium features such as DRM content protection, WebRTC, fast channel switching, ad insertion (SSAI, SGAI, AWS MediaTailor & CSAI), custom development, and expedited customer support, [**please contact us here**](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/) to get the HISPlayer Unity Player SDK Premium Version.*
 
 Contact email: contact@hisplayer.com
 
