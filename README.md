@@ -17,7 +17,7 @@ In this repository you can explore the main list of features offered by HlSPlaye
 
 <br>
 
-## [The Full Documentation](https://hisplayer.github.io/)
+## [Documentation](https://hisplayer.github.io/)
 
 <br>
 
