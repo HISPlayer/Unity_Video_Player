@@ -124,7 +124,7 @@ This is a list of the most important features supported by the plugin:
        <li>Fast Channel Switching</li>
        <li>Video Thumbnails</li>
        <li>Android Vulkan Rendering / Graphics API</li>
-       <li>Android Vulkan 360, 8K Video Performance with the highest frame rate FPS</li>
+       <li>Android Vulkan 360, 8K Video Performance with the highest FPS</li>
        <li>Online Video Hosting</li>
        <li>Apple MV-HEVC on Meta Quest</li>
        </ul>
