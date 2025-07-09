@@ -73,7 +73,9 @@ This is a list of the most important features supported by the plugin:
        <li>DRM Content Protection (Digital Rights Management)</li>
        <li>DRM Token at Unity</li>
        <li>4K, 8K (UHD) Resolution</li>
-       <li>180º, 360º 3D stereoscopic videos</li>
+       <li>180º, 360º 3D stereoscopic, 2D mono videos</li>
+       <li>Subtitles</li>
+       <li>Audio output to Unity Audio Source</li>
        <li>Rendering Videos on 2D & 3D Objects</li>
        <li>Unity Render Streaming</li>
        </ul>
@@ -110,21 +112,25 @@ This is a list of the most important features supported by the plugin:
        <li>Low Latency DASH (LL DASH)</li>  
        <li>Widevine Level 1 (L1) DRM on Meta Quest devices</li>
        <li>MultiStream</li>
+       <li>MultiStream Synchronization</li>
        <li>MultiView (Display Multiple Synchronized Streams)</li>
        <li>Client-Side Ad Insertion / CSAI (WebGL)</li>
        <li>Server-Side Ad Insertion / SSAI (WebGL)</li>
        <li>Server-Guided Ad Insertion / SGAI (WebGL)
-       <li>WebVTT Subtitles & CEA-608/708 Closed Captions</li>
+       <li>Subtitles and Closed Captions</li>
        <li>Multiple Audio & Subtitle Track Selection</li>
        <li>Spread Video Across Multiple Objects</li>
        <li>Transparency and Chroma Support</li>
        <li>Metadata: ID3 tags</li>
        <li>Decoded Frame Buffer Retrieval</li>
+       <li>Audio PCM data</li>
+       <li>Audio playback to Unity Audio Source>
+       <li>Multiple Audio Sources</li>
        <li>Spatial Audio on Meta Quest</li>
        <li>Fast Channel Switching</li>
        <li>Video Thumbnails</li>
        <li>Android Vulkan Rendering / Graphics API</li>
-       <li>Android Vulkan 360, 8K Video Performance with the highest FPS</li>
+       <li>Android Vulkan 360, 8K Video Performance with the highest 72 FPS - 120 FPS</li>
        <li>Online Video Hosting</li>
        <li>Apple MV-HEVC on Meta Quest</li>
        </ul>
@@ -191,4 +197,6 @@ Contact email: contact@hisplayer.com
 
 
 <br>
-<sub><sup>Video Player WebGL, Unity Video Player on WebGL, Unity Video Player, playing video in unity, Play Video in Unity WebGL, HTML5 Video Player for Unity WebGL, Live Video in WebGL, 3D, UnityEngine.Video, UnityEngine.VideoModule, Unity Engine Video, VideoPlayer.renderMode, unityplugin, Video Player component - Unity, Web3, web3 gaming and entertainment, blockchain, Cryptocurrency, Playing Video in Unity, Best VR Video Player for Unity, UnityEngine.VideoPlayer, UnityEngine.VideoClip, Metaverse, Advanced video playback for Unity, Unity Asset Store, OpenXR, Immersive 360 video experience, Augmented, Mixed, Virtual Reality, Oculus Quest, Oculus Quest2, Meta Quest, Gear VR, Google Cardboard, Daydream, HTC Vive Focus, Pico Goblin & Neo, EDM, Electronic Dance Music, Audio PCM data, Audio piping to Unity, Android XR, Audio Source to Unity, Adding audio to your Unity scene, UWP, Windows, Playback raw PCM, How to play .pcm file, Gets PCM audio data, Unity3D, Amazon IVS Unit, Unity DRM videoplayer, Widevine, Video Streaming Player with DRM, Widevine L1 DRM, PCM audio, Playing Video in Unity, Livestreaming the Metaverse, Can Streaming Video Keep Up with the Metaverse? can streaming video survive the metaverse, AR, VR, XR, Amazon Interactive Video Service, timed metadata, embed metadata, metadata, ID3 tags, audio source, audio output, timestamps, HMI - Human Machine interface, infotainment, Automotive, Activision Blizzard, EA, Take-Two Interactive, AWS, Bandai Namco, Disney, Sony, Nintendo Switch, DRM in Android Projects using Unity, DRM in Unity Android projects, UnityEngine.Video, VideoPlayer - Scripting API. </sub><sup> 
+<sub><sup>Related Keywords</sub><sup> 
+  
+<sub><sup>Video Player WebGL, 8K, Unity Video Player on WebGL, Unity Video Player, playing video in unity, Play Video in Unity WebGL, HTML5 Video Player for Unity WebGL, Live Video in WebGL, 3D, UnityEngine.Video, UnityEngine.VideoModule, Unity Engine Video, VideoPlayer.renderMode, unityplugin, Video Player component - Unity, Web3, web3 gaming and entertainment, blockchain, Cryptocurrency, Playing Video in Unity, Best VR Video Player for Unity, UnityEngine.VideoPlayer, UnityEngine.VideoClip, Metaverse, Advanced video playback for Unity, Unity Asset Store, OpenXR, Immersive 360 video experience, Augmented, Mixed, Virtual Reality, Oculus Quest, Oculus Quest2, Meta Quest, Gear VR, Google Cardboard, Daydream, HTC Vive Focus, Pico Goblin & Neo, EDM, Electronic Dance Music, Audio PCM data, Audio piping to Unity, Android XR, Audio Source to Unity, Adding audio to your Unity scene, UWP, Windows, Playback raw PCM, How to play .pcm file, Gets PCM audio data, Unity3D, Amazon IVS Unit, Unity DRM videoplayer, Widevine, Video Streaming Player with DRM, Widevine L1 DRM, PCM audio, Playing Video in Unity, Livestreaming the Metaverse, Can Streaming Video Keep Up with the Metaverse? can streaming video survive the metaverse, AR, VR, XR, Amazon Interactive Video Service, timed metadata, embed metadata, metadata, ID3 tags, audio source, audio output, timestamps, HMI - Human Machine interface, infotainment, Automotive, Activision Blizzard, EA, Take-Two Interactive, AWS, Bandai Namco, Disney, Sony, Nintendo Switch, DRM in Android Projects using Unity, DRM in Unity Android projects, UnityEngine.Video, VideoPlayer - Scripting API. </sub><sup> 
