@@ -124,7 +124,7 @@ This is a list of the most important features supported by the plugin:
        <li>Metadata: ID3 tags</li>
        <li>Decoded Frame Buffer Retrieval</li>
        <li>Audio PCM data</li>
-       <li>Audio playback to Unity Audio Source>
+       <li>Audio playback to Unity Audio Source </li>
        <li>Multiple Audio Sources</li>
        <li>Spatial Audio on Meta Quest</li>
        <li>Fast Channel Switching</li>
