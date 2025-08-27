@@ -112,7 +112,7 @@ This is a list of the most important features supported by the plugin:
        <li>Low Latency DASH (LL DASH)</li>  
        <li>Widevine Level 1 (L1) DRM on Meta Quest devices</li>
        <li>MultiStream</li>
-       <li>MultiStream Synchronization</li>
+       <li>Synchronization of multiple video streams</li>
        <li>MultiView (Display Multiple Synchronized Streams)</li>
        <li>Client-Side Ad Insertion / CSAI (WebGL)</li>
        <li>Server-Side Ad Insertion / SSAI (WebGL)</li>
