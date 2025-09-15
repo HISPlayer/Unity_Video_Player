@@ -126,7 +126,9 @@ This is a list of the most important features supported by the plugin:
        <li>Audio PCM data</li>
        <li>Audio playback to Unity Audio Source </li>
        <li>Multiple Audio Sources</li>
+       <li>Ambisonics Audio</li>
        <li>Spatial Audio on Meta Quest</li>
+       <li>Dolby Atmos</li>
        <li>Fast Channel Switching</li>
        <li>Video Thumbnails</li>
        <li>Android Vulkan Rendering / Graphics API</li>
