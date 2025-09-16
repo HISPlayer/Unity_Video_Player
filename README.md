@@ -107,7 +107,7 @@ This is a list of the most important features supported by the plugin:
        <li>Offline Streaming Playback for HLS & DASH</li>
        <li>HLS Playback with AES-128</li>
        <li>Offline HLS Playback with AES-128</li>
-       <li>WebRTC real-time streaming</li>
+       <li>Ultra Low Latency with WebRTC real-time streaming</li>
        <li>Low Latency HLS (LL HLS)</li>
        <li>Low Latency DASH (LL DASH)</li>  
        <li>Widevine Level 1 (L1) DRM on Meta Quest devices</li>
