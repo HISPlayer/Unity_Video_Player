@@ -128,9 +128,7 @@ This is a list of the most important features supported by the plugin:
        <li>Multiple Audio Sources</li>
        <li>Ambisonics Audio</li>
        <li>Spatial Audio on Meta Quest</li>
-       <li>Dolby Atmos</li>
-       <li>Dolby AC3</li>
-       <li>Dolby EAC3</li>
+       <li>Dolby Atmos (Dolby AC3, Dolby EAC3) </li>
        <li>Fast Channel Switching</li>
        <li>Video Thumbnails</li>
        <li>Android Vulkan Rendering / Graphics API</li>
