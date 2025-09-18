@@ -68,7 +68,7 @@ This is a list of the most important features supported by the plugin:
        <li>mp4 download and playback</li>
        <li>Live and video on demand (VOD) 
        <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
-       <li>WebRTC Live Streaming</li>
+       <li>WebRTC Real-Time Streaming</li>
        <li>AES-128 HLS decryption</li>
        <li>DRM Content Protection (Digital Rights Management)</li>
        <li>DRM Token at Unity</li>
@@ -107,7 +107,7 @@ This is a list of the most important features supported by the plugin:
        <li>Offline Streaming Playback for HLS & DASH</li>
        <li>HLS Playback with AES-128</li>
        <li>Offline HLS Playback with AES-128</li>
-       <li>Ultra Low Latency with WebRTC real-time streaming</li>
+       <li>Ultra Low Latency WebRTC</li>
        <li>Low Latency HLS (LL HLS)</li>
        <li>Low Latency DASH (LL DASH)</li>  
        <li>Widevine Level 1 (L1) DRM on Meta Quest devices</li>
@@ -116,7 +116,7 @@ This is a list of the most important features supported by the plugin:
        <li>MultiView (Display Multiple Synchronized Streams)</li>
        <li>Client-Side Ad Insertion / CSAI (WebGL)</li>
        <li>Server-Side Ad Insertion / SSAI (WebGL)</li>
-       <li>Server-Guided Ad Insertion / SGAI (WebGL)
+       <li>Server-Guided Ad Insertion / SGAI (WebGL)</li>
        <li>Subtitles and Closed Captions</li>
        <li>Multiple Audio & Subtitle Track Selection</li>
        <li>Spread Video Across Multiple Objects</li>
