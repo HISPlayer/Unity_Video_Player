@@ -4,7 +4,9 @@
 </br>
 
 <p align="center"><a href="https://www.hisplayer.com/unity-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/NexusStudios_Blumhouse_EnhancedCinema.gif" width="100%" height="80%"></a>
-  
+
+## Unity Video Player 
+
 HISPlayer is the most advanced Unity Video Player, supporting local, VOD, and Live content. It enables premium DASH, HLS, and WebRTC video streaming inside your games, XR apps, 3D websites and metaverses on Android, iOS, Windows, UWP, macOS, [WebGL](https://hisplayer.com/unity-webgl-video-player/), and VR/AR Headsets ([Meta Quest](https://hisplayer.com/meta-quest-video-player-unity-unreal/), XREAL, Android XR, HTC Vive, or [Apple Vision Pro](https://hisplayer.com/unity-video-player-visionos/)). Our Unity Video Player is hardware accelerated to provide the top quality video streaming performance on every device, supporting regular or 180-degree, 360-degree, 3D stereoscopic videos up to 8K resolution with the highest frame rate FPS. HISPlayer Unity Player SDK includes support of [DRM content protection](https://hisplayer.com/unity-video-player-digital-rights-management-drm/) for premium content and advanced features such as multi-stream, ad insertion, fast channel switching, or automatic bitrate adaptation (ABR) to secure the best video quality.
 
 
