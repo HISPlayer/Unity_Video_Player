@@ -1,5 +1,5 @@
 <h1 style="line-height:2;"><p align="center"><a href="https://hisplayer.com/demo-unity-player-sdk-github/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/UnitySDK.png"></a>
-
+<p align="left">🪐 Unity Video Player</p>
 </p></h1>
 </br>
 
