@@ -39,7 +39,7 @@ In this repository, you can explore the main list of features offered by HlSPlay
 ## Gaming and Metaverse Example 
 
 Our Unity video player SDK allows you to create new exciting scenes inside your Unity projects, such as video ads, the possibility to enjoy premium video content or the option to include dynamic video content related to your games that might be changed from day to day...
-<p align="center"><a href="https://www.hisplayer.com/unity-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/mutliview.gif"  width="80%" height="80%"></a>
+<p align="center"><a href="https://www.hisplayer.com/unity-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/UEGitHub.gif"  width="80%" height="80%"></a>
 <p align="center">Include high quality Multiple Streams into your games and metaverses</p>
 
 <br>
