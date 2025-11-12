@@ -29,9 +29,6 @@ In this repository, you can explore the main list of features offered by HlSPlay
 >
 > The HISPlayer Video Hosting Platform includes our advanced Unity Video Player for FREE.
 > 
->Tutorial:
-> * **[Host videos inside the Unity Editor](https://www.youtube.com/watch?v=vSI7U6TjHqI)**
->
 > We can help you with the full end-to-end video delivery and playback.
 
 <br>
@@ -40,7 +37,7 @@ In this repository, you can explore the main list of features offered by HlSPlay
 
 Our Unity video player SDK allows you to create new exciting scenes inside your Unity projects, such as video ads, the possibility to enjoy premium video content or the option to include dynamic video content related to your games that might be changed from day to day...
 <p align="center"><a href="https://www.hisplayer.com/unity-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/UEGitHub.gif"  width="80%" height="80%"></a>
-<p align="center">Include high quality Multiple Streams into your games and metaverses</p>
+<p align="center">Include high-quality Multiple Video Streams into your games, VR/AR, and metaverses</p>
 
 <br>
 
