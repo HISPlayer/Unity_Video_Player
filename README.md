@@ -134,7 +134,8 @@ This is a list of the most important features supported by the plugin:
        <li>Android Vulkan 180, 360, 8K Video Performance with the highest FPS</li>
        <li>Online Video Hosting</li>
        <li>Apple MV-HEVC on Meta Quest</li>
-       <li>3rd party tool integrations (ad insertion, analytics)</li>
+       <li>3rd party tool integrations (ad insertion, analytics, audio)</li>
+       <li>GPU-accelerated video playback</li>
        </ul>
      </td>
      </tr>
