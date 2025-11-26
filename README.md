@@ -136,6 +136,7 @@ This is a list of the most important features supported by the plugin:
        <li>Apple MV-HEVC on Meta Quest</li>
        <li>3rd party tool integrations (ad insertion, analytics, audio)</li>
        <li>GPU-accelerated video playback</li>
+       <li>Get Audio Codec info from video on Meta Quest</li>
        </ul>
      </td>
      </tr>
