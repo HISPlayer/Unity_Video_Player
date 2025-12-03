@@ -189,7 +189,7 @@ This is a list of the most important features supported by the plugin:
 ## Premium Features
 
 > [!NOTE]
-> *If you need DRM content protection, WebRTC ultra low latency, ad insertion (SSAI, SGAI, AWS MediaTailor & CSAI), WebGPU, custom development, and expedited customer support, [**please contact us here**](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/) to get the HISPlayer Unity Player SDK Premium Version.*
+> *If you need DRM content protection, MV-HEVC, WebRTC ultra low latency, ad insertion (SSAI, SGAI, AWS MediaTailor & CSAI), WebGPU, custom development, and expedited customer support, [**please contact us here**](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/) to get the HISPlayer Unity Player SDK Premium Version.*
 
 
 #### [GET YOUR FREE DEMO HERE](https://hisplayer.com/contact-hisplayer-unity-sdk-premium/)
