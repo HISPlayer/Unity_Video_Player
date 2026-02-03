@@ -27,7 +27,7 @@ In this repository, you can explore the main list of features offered by HlSPlay
  
 > Upload and host video files, converting them into HLS and DASH streaming URLs. You can stream all these videos using our Unity Player SDK into Unity. **[Start your FREE trial here!](https://hisplayer.com/unity-asset-store-saas-registration/)**
 >
-> The HISPlayer Video Hosting Platform includes our advanced Unity Video Player for FREE.
+> The HISPlayer Video Hosting Platform includes this advanced Unity Video Player for FREE.
 > 
 > We can help you with the full end-to-end video delivery and playback.
 
