@@ -5,9 +5,9 @@
 
 <p align="center"><a href="https://www.hisplayer.com/unity-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/NexusStudios_Blumhouse_EnhancedCinema.gif" width="100%" height="80%"></a>
 
-## Unity Video Player 
+## The Premium Unity Video Player 
 
-HISPlayer is the most advanced Unity Video Player, supporting local, VOD, and Live content. It enables premium DASH, HLS, and WebRTC video streaming inside your games, XR apps, 3D websites and metaverses on Android, iOS, Windows, UWP, macOS, [WebGL](https://hisplayer.com/unity-webgl-video-player/), and VR/AR Headsets ([Meta Quest](https://hisplayer.com/meta-quest-video-player-unity-unreal/), XREAL, Galaxy XR, HTC Vive, or [Apple Vision Pro](https://hisplayer.com/unity-video-player-visionos/)). Our Unity Video Player is hardware accelerated to provide the top quality video streaming performance on every device, supporting regular or 180-degree, 360-degree, 3D stereoscopic videos up to 8K resolution with the highest frame rate FPS. HISPlayer Unity Player SDK includes support of [DRM content protection](https://hisplayer.com/unity-video-player-digital-rights-management-drm/) for premium content and advanced features such as multi-stream, ad insertion, fast channel switching, or automatic bitrate adaptation (ABR) to secure the best video quality.
+HISPlayer is the most advanced Unity Video Player, supporting local, VOD, and Live content. It enables premium DASH, HLS, and WebRTC video streaming inside your games, XR apps, 3D websites, and metaverses on Android, iOS, Windows, UWP, macOS, [WebGL](https://hisplayer.com/unity-webgl-video-player/), and VR/AR Headsets ([Meta Quest](https://hisplayer.com/meta-quest-video-player-unity-unreal/), XREAL, Galaxy XR, HTC Vive, or [Apple Vision Pro](https://hisplayer.com/unity-video-player-visionos/)). Our Unity Video Player is hardware-accelerated to provide the top quality video streaming performance on every device, supporting regular or 180-degree, 360-degree, 3D stereoscopic videos up to 8K resolution at the highest frame rate FPS. HISPlayer Unity Player SDK includes support of [DRM content protection](https://hisplayer.com/unity-video-player-digital-rights-management-drm/) for premium content and advanced features such as multi-stream, ad insertion, fast channel switching, or automatic bitrate adaptation (ABR) to secure the best video quality.
 
 
 HISPlayer Unity Video Player also supports **Unity Render Streaming**. It allows adding Live and VOD Video Streaming into Unity Render Streaming experiences. Enhance your real-time 3D content and games with video/audio integration.
@@ -73,6 +73,8 @@ This is a list of the most important features supported by the plugin:
        <li>DRM Token at Unity</li>
        <li>4K, 8K (UHD) Resolution</li>
        <li>180º, 360º 3D stereoscopic, 2D mono videos</li>
+       <li>3D stereoscopic video top-bottom and side-by-side</li>
+       <li>Apple MV-HEVC video playback on Meta Quest</li>
        <li>Subtitles</li>
        <li>Audio output to Unity Audio Source</li>
        <li>Rendering Videos on 2D & 3D Objects</li>
@@ -104,15 +106,17 @@ This is a list of the most important features supported by the plugin:
        <ul>
        <li>HLS & DASH Streaming</li>
        <li>Offline Streaming Playback for HLS & DASH</li>
-       <li>HLS Playback with AES-128</li>
+       <li>HLS with AES-128 encryption</li>
        <li>Offline HLS Playback with AES-128</li>
        <li>Ultra Low Latency WebRTC</li>
        <li>Low Latency HLS (LL HLS)</li>
        <li>Low Latency DASH (LL DASH)</li>  
-       <li>Widevine Level 1 (L1) DRM on Meta Quest devices</li>
+       <li>Widevine Level 1 (L1) DRM on Meta Quest</li>
        <li>MultiStream</li>
-       <li>Synchronize multiple video streams</li>
+       <li>MultiStream Synchronisation (sync multiple video streams)</li>
        <li>MultiView (Display Multiple Synchronized Streams)</li>
+       <li>Seek to Frame</li>
+       <li>Frame synchronised playback</li>
        <li>Client-Side Ad Insertion / CSAI (WebGL)</li>
        <li>Server-Side Ad Insertion / SSAI (WebGL)</li>
        <li>Server-Guided Ad Insertion / SGAI (WebGL)</li>
@@ -127,13 +131,13 @@ This is a list of the most important features supported by the plugin:
        <li>Multiple Audio Sources</li>
        <li>Ambisonics Audio</li>
        <li>Spatial Audio on Meta Quest</li>
-       <li>Dolby Atmos (Dolby AC3, Dolby EAC3) </li>
+       <li>Dolby Atmos and Dolby Audio (Dolby AC3, Dolby EAC3) </li>
        <li>Fast Channel Switching</li>
        <li>Video Thumbnails</li>
        <li>Android Vulkan Rendering / Graphics API</li>
        <li>Android Vulkan 180, 360, 8K Video Performance with the highest FPS</li>
        <li>Online Video Hosting</li>
-       <li>Apple MV-HEVC on Meta Quest</li>
+       <li>Apple MV-HEVC video playback on Meta Quest</li>
        <li>3rd party tool integrations (ad insertion, analytics, audio)</li>
        <li>GPU-accelerated video playback</li>
        <li>Get Audio Codec info from video on Meta Quest</li>
