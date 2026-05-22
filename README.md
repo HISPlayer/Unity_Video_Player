@@ -131,7 +131,7 @@ This is a list of the most important features supported by the plugin:
        <li>Multiple Audio Sources</li>
        <li>Ambisonics Audio</li>
        <li>Spatial Audio on Meta Quest</li>
-       <li>Dolby Atmos and Dolby Audio (Dolby AC-3, Dolby EAC-3, AC-4) </li>
+       <li>Dolby Atmos and Dolby Audio (AC-3, EAC-3, AC-4) </li>
        <li>Fast Channel Switching</li>
        <li>Video Thumbnails</li>
        <li>Direct to External Surface video rendering</li>
