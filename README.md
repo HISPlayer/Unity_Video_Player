@@ -64,10 +64,12 @@ This is a list of the most important features supported by the plugin:
      </td>
      <td>
        <ul>
+       <li>Local playback</li>
        <li>mp4 download and playback</li>
        <li>Live and video on demand (VOD) 
        <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
        <li>WebRTC Real-Time Streaming</li>
+       <li>Custom HTTP Authorization Headers</li>
        <li>AES-128 HLS decryption</li>
        <li>DRM Content Protection (Digital Rights Management)</li>
        <li>DRM Token at Unity</li>
