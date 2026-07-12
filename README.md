@@ -146,6 +146,7 @@ This is a list of the most important features supported by the plugin:
        <li>3rd party tool integrations (ad insertion, analytics, audio)</li>
        <li>GPU-accelerated video playback</li>
        <li>Get Audio Codec info from video on Meta Quest</li>
+       <li>Seamless 8K, 360 video integration with 3D Guassian Splatting scenes</li>
        </ul>
      </td>
      </tr>
