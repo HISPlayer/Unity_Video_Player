@@ -114,7 +114,7 @@ This is a list of the most important features supported by the plugin:
        <li>Ultra Low Latency WebRTC</li>
        <li>Low Latency HLS (LL HLS)</li>
        <li>Low Latency DASH (LL DASH)</li>  
-       <li>Widevine Level 1 (L1) DRM on Meta Quest</li>
+       <li>Widevine Level 1 (L1) DRM on Meta Quest and Galaxy XR</li>
        <li>Download & offline playback with Widevine DRM</li>
        <li>MultiStream</li>
        <li>MultiStream Synchronisation (sync multiple video streams)</li>
@@ -165,6 +165,7 @@ This is a list of the most important features supported by the plugin:
        <li>Automatic Ground Leveler to stabilize the video</li>
        <li>Custom shaders to map 2D, 3D Over/Under and 3D Left/Right 360 videos</li>
        <li>Compatible with VR libraries for Unity (Meta Quest & HTC Vive)</li>
+       <li>Foveated rendering</li>
        <li>Optimized for OpenXR</li>
        </ul>
      </td>
@@ -181,7 +182,7 @@ This is a list of the most important features supported by the plugin:
 | :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
 | [Meta Quest](https://hisplayer.com/meta-quest-video-player-unity-unreal/)  | OpenGLES2, OpenGLES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Widevine L1 DRM](https://hisplayer.com/unity-video-player-with-widevine-level-1-drm/) |
 | Android  | OpenGLES2, OpenGLES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Widevine L3 DRM](https://hisplayer.com/unity-video-player-digital-rights-management-drm/) |
-| Android XR | OpenGLES2, OpenGLES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Android XR | OpenGLES2, OpenGLES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Widevine L1 DRM |
 | Pico | OpenGLES2, OpenGLES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:|
 | iOS | Metal | :heavy_check_mark: | | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
