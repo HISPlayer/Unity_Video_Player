@@ -139,7 +139,7 @@ This is a list of the most important features supported by the plugin:
        <li>Fast Channel Switching</li>
        <li>Video Thumbnails</li>
        <li>Direct to External Surface video rendering</li>
-       <li>Dual video rendering directly to the External Surface and Unity Render Texture
+       <li>Dual video rendering: same stream to the External Surface and Unity Render Texture</li>
        <li>Android Vulkan Rendering / Graphics API</li>
        <li>Android Vulkan 180, 360, 8K Video Performance with the highest FPS</li>
        <li>Online Video Hosting</li>
