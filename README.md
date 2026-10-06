@@ -108,7 +108,7 @@ This is a list of the most important features supported by the plugin:
      <td>
        <ul>
        <li>HLS & DASH Streaming</li>
-       <li>Offline Streaming Playback for HLS & DASH</li>
+       <li>Offline Playback for HLS & DASH</li>
        <li>HLS with AES-128 encryption</li>
        <li>Offline HLS Playback with AES-128</li>
        <li>Ultra Low Latency WebRTC</li>
@@ -134,6 +134,7 @@ This is a list of the most important features supported by the plugin:
        <li>Audio playback to Unity Audio Source </li>
        <li>Multiple Audio Sources</li>
        <li>Ambisonics Audio</li>
+       <li>3D Stereo Subtitles</li>
        <li>Spatial Audio on Meta Quest</li>
        <li>Dolby Atmos and Dolby Audio (AC-3, EAC-3, AC-4) </li>
        <li>Fast Channel Switching</li>
