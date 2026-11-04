@@ -77,7 +77,7 @@ This is a list of the most important features supported by the plugin:
        <li>4K, 8K (UHD) Resolution</li>
        <li>180º, 360º 3D stereoscopic, 2D mono videos</li>
        <li>3D stereoscopic video top-bottom and side-by-side</li>
-       <li>Apple MV-HEVC video playback on Meta Quest</li>
+       <li>MV-HEVC 4K per eye video playback on Meta Quest</li>
        <li>Subtitles</li>
        <li>Audio output to Unity Audio Source</li>
        <li>Rendering Videos on 2D & 3D Objects</li>
