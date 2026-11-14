@@ -119,12 +119,14 @@ This is a list of the most important features supported by the plugin:
        <li>MultiStream</li>
        <li>MultiStream Synchronisation (sync multiple video streams)</li>
        <li>MultiView (Display Multiple Synchronized Streams)</li>
-       <li>Seek to Frame</li>
+       <li>Perfect Seek to Frame</li>
        <li>Frame synchronised playback</li>
        <li>Client-Side Ad Insertion / CSAI (WebGL)</li>
        <li>Server-Side Ad Insertion / SSAI (WebGL)</li>
        <li>Server-Guided Ad Insertion / SGAI (WebGL)</li>
        <li>Subtitles and Closed Captions</li>
+       <li>3D Subtitles</li>
+       <li>External Subtitles</li>
        <li>Multiple Audio & Subtitle Track Selection</li>
        <li>Spread Video Across Multiple Objects</li>
        <li>Transparency and Chroma Support</li>
@@ -133,8 +135,8 @@ This is a list of the most important features supported by the plugin:
        <li>Audio PCM data</li>
        <li>Audio playback to Unity Audio Source </li>
        <li>Multiple Audio Sources</li>
-       <li>Ambisonics Audio</li>
-       <li>3D Stereo Subtitles</li>
+       <li>HRTF (Head-Related Transfer Function) 3D spatial audio/li>
+       <li>Ambisonics Audio</li>    
        <li>Spatial Audio on Meta Quest</li>
        <li>Dolby Atmos and Dolby Audio (AC-3, EAC-3, AC-4) </li>
        <li>Fast Channel Switching</li>
