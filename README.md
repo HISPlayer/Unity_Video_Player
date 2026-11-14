@@ -135,7 +135,7 @@ This is a list of the most important features supported by the plugin:
        <li>Audio PCM data</li>
        <li>Audio playback to Unity Audio Source </li>
        <li>Multiple Audio Sources</li>
-       <li>HRTF (Head-Related Transfer Function) 3D spatial audio/li>
+       <li>HRTF (Head-Related Transfer Function) 3D spatial audio </li>
        <li>Ambisonics Audio</li>    
        <li>Spatial Audio on Meta Quest</li>
        <li>Dolby Atmos and Dolby Audio (AC-3, EAC-3, AC-4) </li>
