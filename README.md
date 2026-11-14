@@ -27,7 +27,7 @@ In this repository, you can explore the main list of features offered by HlSPlay
  
 > Upload and host video files, converting them into HLS and DASH streaming URLs. You can play all these video streams using our Unity Player SDK in Unity. **[Start your FREE trial here!](https://hisplayer.com/unity-asset-store-saas-registration/)**
 >
-> The HISPlayer Video Hosting Platform comes with our advanced Unity Video Player for FREE. It is optimized specifically for Games and VR/AR apps that need high-quality 180, 360, 8K video playback at the highest 120 FPS.
+> The HISPlayer Video Hosting Platform comes with our advanced Unity Video Player for FREE. It is optimized specifically for Games and VR/AR apps that need high-quality 180, 360, and 8K video playback at the highest 120 FPS.
 > 
 > We can help you with the full end-to-end video delivery and playback.
 
