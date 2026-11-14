@@ -7,7 +7,7 @@
 
 ## The Premium Unity Video Player 
 
-HISPlayer is the most advanced Unity Video Player, supporting local, VOD, and Live content. It enables premium DASH, HLS, and WebRTC video streaming inside your games, XR apps, 3D websites, and metaverses on Android, iOS, Windows, UWP, macOS, [WebGL](https://hisplayer.com/unity-webgl-video-player/), and VR/AR Headsets ([Meta Quest](https://hisplayer.com/meta-quest-video-player-unity-unreal/), Meta VR Glasses, XREAL, Galaxy XR, HTC, Pico, or [Apple Vision Pro](https://hisplayer.com/unity-video-player-visionos/)). Our Unity Video Player is hardware-accelerated to provide the top quality video streaming performance on every device, supporting regular or 180-degree, 360-degree, 3D stereoscopic videos up to 8K resolution at the highest frame rate FPS. HISPlayer Unity Player SDK includes support of [DRM content protection](https://hisplayer.com/unity-video-player-digital-rights-management-drm/) for premium content and advanced features such as multi-stream, ad insertion, fast channel switching, or automatic bitrate adaptation (ABR) to secure the best video quality.
+HISPlayer is the most advanced Unity Video Player, supporting local, VOD, and Live content. It enables premium DASH, HLS, and WebRTC video streaming inside your games, XR apps, LBVR, 3D websites, digital twins, simulation, and training on Android, iOS, Windows, UWP, macOS, [WebGL](https://hisplayer.com/unity-webgl-video-player/), and VR/AR Headsets ([Meta Quest](https://hisplayer.com/meta-quest-video-player-unity-unreal/), Meta VR Glasses, XREAL, Galaxy XR, HTC, Pico, or [Apple Vision Pro](https://hisplayer.com/unity-video-player-visionos/)). Our Unity Video Player is hardware-accelerated to provide top-quality video streaming performance on every device, supporting regular or 180-degree, 360-degree, 3D stereoscopic videos up to 8K resolution at the highest frame rate FPS. HISPlayer Unity Player SDK includes support of [DRM content protection](https://hisplayer.com/unity-video-player-digital-rights-management-drm/) for premium content and advanced features such as multi-stream, ad insertion, fast channel switching, or automatic bitrate adaptation (ABR) to secure the best video quality.
 
 
 HISPlayer Unity Video Player also supports **Unity Render Streaming**. It allows adding Live and VOD Video Streaming into Unity Render Streaming experiences. Enhance your real-time 3D content and games with video/audio integration.
@@ -23,21 +23,21 @@ In this repository, you can explore the main list of features offered by HlSPlay
 
 <br>
 
-## :rocket: Upload and Host your videos with HISPlayer: :rocket:
+## :rocket: The HISPlayer Video Streaming Platform e2e: :rocket:
  
-> Upload and host video files, converting them into HLS and DASH streaming URLs. You can stream all these videos using our Unity Player SDK into Unity. **[Start your FREE trial here!](https://hisplayer.com/unity-asset-store-saas-registration/)**
+> Upload and host video files, converting them into HLS and DASH streaming URLs. You can play all these video streams using our Unity Player SDK in Unity. **[Start your FREE trial here!](https://hisplayer.com/unity-asset-store-saas-registration/)**
 >
-> The HISPlayer Video Hosting Platform includes our advanced Unity Video Player for FREE. It is optimized specifically for Games and VR/AR apps that need high-quality 180, 360, 8K video playback.
+> The HISPlayer Video Hosting Platform comes with our advanced Unity Video Player for FREE. It is optimized specifically for Games and VR/AR apps that need high-quality 180, 360, 8K video playback at the highest 120 FPS.
 > 
 > We can help you with the full end-to-end video delivery and playback.
 
 <br>
 
-## Gaming and Metaverse Example 
+## Gaming and VR/AR Example 
 
 Our Unity video player SDK allows you to create new exciting scenes inside your Unity projects, such as video ads, the possibility to enjoy premium video content or the option to include dynamic video content related to your games that might be changed from day to day...
 <p align="center"><a href="https://www.hisplayer.com/unity-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/UEGitHub.gif"  width="80%" height="80%"></a>
-<p align="center">Include high-quality Multiple Video Streams into your games, VR/AR, and metaverses</p>
+<p align="center">Include high-quality multiple video streams in your games and XR</p>
 
 <br>
 
