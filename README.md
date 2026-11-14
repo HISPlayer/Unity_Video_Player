@@ -23,7 +23,7 @@ In this repository, you can explore the main list of features offered by HlSPlay
 
 <br>
 
-## :rocket: The HISPlayer Video Streaming Platform e2e: :rocket:
+## :rocket: HISPlayer Video Streaming Platform e2e: :rocket:
  
 > Upload and host video files, converting them into HLS and DASH streaming URLs. You can play all these video streams using our Unity Player SDK in Unity. **[Start your FREE trial here!](https://hisplayer.com/unity-asset-store-saas-registration/)**
 >
