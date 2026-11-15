@@ -161,7 +161,8 @@ This is a list of the most important features supported by the plugin:
          </td>
      <td>
        <ul>
-      <li>VR, 180, 360 3D stereo, 2D mono video streaming</li>
+      <li>VR, 180, 360 3D stereo (side-by-side, top-bottom), 2D mono video streaming</li>
+       <li>VR layers: Quad, equirectangular and cubemap</li>
        <li>Touch input which includes movement, and camera rotation</li>
        <li>Gyroscope input to move the camera</li>
        <li>Mouse input to move the camera</li>
